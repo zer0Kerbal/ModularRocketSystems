@@ -19,7 +19,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`NecroBones`][necrobones] with [`NecroBones:1`][necrobones:1]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`NecroBones`][necrobones]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
