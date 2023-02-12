@@ -25,11 +25,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystems/master/img/HeroLogo_1920x1920.png" alt="ModularRocketSystems Hero" width="50%" height="50%">
 
-<details>
-  <summary><b>Preamble by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/87102-*/">NecroBones</a></b></summary>
-  <p>I love Helldiver's KSO, but it got me thinking about the WEKA and the idea of a REALLY small lifting body shuttle(1.25m scale) for crew return and emergency returns from orbit. So after a few abortive attempts at Blender which resulted in the kind of design that should be drowned at birth, I decided to draw on a napkin at work(aren't those always the best designs?).</p>
-</details>
-
 ### Preamble by [`NecroBones`][necrobones]
 
 > Tempor duis sit sunt pariatur sit quis nisi ex velit ipsum elit. Lorem enim nisi officia cillum duis aliquip nostrud excepteur aliqua quis quis quis. Nostrud occaecat mollit culpa irure fugiat culpa dolor qui excepteur mollit sint deserunt in. Id excepteur non cupidatat aute proident laborum non mollit excepteur et exercitation nostrud consectetur enim. Elit sit tempor in eiusmod fugiat commodo amet dolore in amet anim sint. Amet deserunt ullamco mollit. Sint magna culpa anim minim ea et ullamco id aute mollit.
@@ -48,6 +43,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### YouTube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
 [![Kottabos reviews ModularRocketSystems](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://youtu.be/Oj1etoybd7E)
+https://www.youtube.com/watch?v=YdBiifPVCeA
+https://www.youtube.com/watch?v=SSDCyMnXeIE
 
 ### Help Wanted
 
