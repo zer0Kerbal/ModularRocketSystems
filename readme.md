@@ -72,9 +72,6 @@ or<a href="https://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/"><img
 
 I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata for my mods. [CKAN][ckan:url] is a great mod for those that can't use zip tools. If you are having issues please let the [CKAN][ckan:url] people know and refer to the [CKAN][ckan:url] thread. My support of [CKAN][ckan:url] extends with checking the checkbox in [SpaceDock][SPCDCK:url]. Beware, [CKAN][ckan:url] *can* really mess up; though it tries very, very, very hard not to.
 
-OLD: <a href="https://download.curseforge.com/"> <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%"></a>
-OLD: [![CKAN][ckan:img]][ckan:url]
-
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
