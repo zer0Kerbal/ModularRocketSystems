@@ -450,6 +450,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #37 - 1.6.2.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -463,6 +464,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #36 - 1.6.1.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -484,6 +486,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #35 - 1.6.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -500,6 +503,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #34 - 1.5.1.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -517,6 +521,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #33 - 1.5.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -531,6 +536,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #32 - 1.4.4.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -546,6 +552,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #31 - 1.4.3.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -561,6 +568,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #30 - 1.4.2.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -574,14 +582,16 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #29 - 1.4.1.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
 ## Version 1.4.0.0-release `<Archival>`
 
-* Fixes, And so on
 * 15 Dec 2014
+* Kerbal Space Program 0.90.0
 
+* Fixes, And so on
 * No changes necessary for 0.90:
   * Engine/FuelTank split is automatic
   * Leaving SAS basic capability on the reaction wheel parts for now.
@@ -592,42 +602,48 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #28 - 1.4.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
 ## Version 1.3.2.0-release `<Archival>`
 
-* Error correction
 * 03 Dec 2014
+* Kerbal Space Program 0.25.0
 
+* Error correction
 * Fixed a texture loading problem with the "three-quarter jumbo" fuel tank.
 * 2 docking helpers later into tech tree, to the nodes with the appropriate docking ports. 0 and size Moved size
 
 * Issues
   * updates #7 - Archival Releases
   * closes #27 - 1.3.2.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
 ## Version 1.3.1.0-release `<Archival>`
 
-* TweakScale fixed
 * 25 Nov 2014
+* Kerbal Space Program 0.25.0
 
+* TweakScale fixed
 * Moved all TweakScale configs to a file called "MRS_TweakScale.cfg", and out of the part configs.
 * Change all size-adapter pieces to use the preconfigured "adapter" TweakScale types.
 
 * Issues
   * updates #7 - Archival Releases
   * closes #26 - 1.3.1.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
 ## Version 1.3.0.0-release `<Archival>`
 
-* Minor Update
 * 24 Nov 2014
+* Kerbal Space Program 0.25.0
 
+* Minor Update
 * Added "Community Tech Tree" support, by moving the quad-nuke to "Improved Nuclear Propulsion" node, if CTT is also installed.
 * Moved "Flingatron" later in tech tree, to Heavy Rocketry.
 * Corrected the "Flingatron" exhaust position
@@ -637,14 +653,16 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #25 - 1.3.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
 ## Version 1.2.0.0-release `<Archival>`
 
-* Minor Tweak
 * 13 Nov 2014
+* Kerbal Space Program 0.25.0
 
+* Minor Tweak
 * Moved the "Terrier" engine to the "Very Heavy Rocketry" tech node, where the rest of the 3.75m diameter parts are.
 * Tweaked the 3.75m Quad-engine
   * Reduced the external glow on the engine bells
@@ -654,14 +672,16 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #24 - 1.2.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
 ## Version 1.1.0.0-release `<Archival>`
 
-* Parts update
 * 07 Nov 2014
+* Kerbal Space Program 0.25.0
 
+* Parts update
 * Flag decals on cargo bay and 2.5m fuel tank should no longer cast shadows on themselves.
 * Corrected the cargo bay doors to be non-attachable. Somehow this setting got lost before release.
 * Moved the "radial booster tank" to an earlier node in the tech tree.
@@ -673,13 +693,14 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #23 - 1.1.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
 ## Version 1.0.0.0-release `<Archival>`
 
-* Kerbal Space Program 0.25.0
 * 30 Oct 2014
+* Kerbal Space Program 0.25.0
 
 * Full release!
 * No complaints or bug reports for quite a while. Let's call it 1.0.
@@ -690,6 +711,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #22 - 1.0.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -710,6 +732,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #21 - 0.7.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -730,6 +753,7 @@ See: http://forum.kerbalspaceprogram.com/threads/79745-*/
 * Issues
   * updates #7 - Archival Releases
   * closes #20 - 0.6.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -757,6 +781,7 @@ See: http://forum.kerbalspaceprogram.com/threads/79745-*/
 * Issues
   * updates #7 - Archival Releases
   * closes #19 - 0.5.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -779,6 +804,7 @@ See: http://forum.kerbalspaceprogram.com/threads/79745-*/
 * Issues
   * updates #7 - Archival Releases
   * closes #18 - 0.4.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -801,6 +827,7 @@ See: http://forum.kerbalspaceprogram.com/threads/79745-*/
 * Issues
   * updates #7 - Archival Releases
   * closes #17 - 0.3.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -814,6 +841,7 @@ See: http://forum.kerbalspaceprogram.com/threads/79745-*/
 * Issues
   * updates #7 - Archival Releases
   * closes #16 - 0.2.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
