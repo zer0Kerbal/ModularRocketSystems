@@ -724,9 +724,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 0.6.0.0-beta `<Archival>`
 
-* Beta Release
 * 24 Sep 2014
+* Kerbal Space Program 0.24.2
 
+* Beta Release
 * Fixed 6x symmetry under the 3.75m to 7-way 1.25m adapter
 * Adjusted collision mesh on Aerodynamic Pylons to support vertical-snap in Editor Extensions
 * Enabled Remote-Tech support to the Guidance Nose Cone.
@@ -744,9 +745,10 @@ See: http://forum.kerbalspaceprogram.com/threads/79745-*/
 
 ## Version 0.5.0.0-beta `<Archival>`
 
-* Beta Release
 * 19 Sep 2014
+* Kerbal Space Program 0.24.2
 
+* Beta Release
 * Cosmetic adjustment: Quad-Nuclear engine:
   * Lightened the grey color of the reactors
   * Increased engine bell's size by 9%.
@@ -770,9 +772,10 @@ See: http://forum.kerbalspaceprogram.com/threads/79745-*/
 
 ## Version 0.4.0.0-beta `<Archival>`
 
-* Beta Release
 * 15 Sep 2014
+* Kerbal Space Program 0.24.2
 
+* Beta Release
 * Added TweakScale support to most parts
 * Added engine glow to the 0.625m tiny LFO engine.
 * Adjusted surface attachment for Xenon Sphere tanks so they don't "float" off the surface
@@ -791,8 +794,8 @@ See: http://forum.kerbalspaceprogram.com/threads/79745-*/
 
 ## Version 0.3.0.0-beta `<Archival>`
 
-* Kerbal Space Program 0.24.2
 * 11 Sep 2014
+* Kerbal Space Program 0.24.2
 
 * Beta release
 * Added 2.5m to 1.25m hollow cone adapter
