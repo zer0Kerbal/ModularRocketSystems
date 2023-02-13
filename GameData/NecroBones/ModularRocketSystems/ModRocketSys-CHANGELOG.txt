@@ -1,3 +1,10 @@
+1.2 (2014-11-13) - Minor Tweaks
+ - Moved the "Terrier" engine to the "Very Heavy Rocketry" tech node, where the rest of the 3.75m diameter parts are.
+ - Tweaked the 3.75m Quad-engine
+   - Reduced the external glow on the engine bells
+   - Added additional framework on the engine bells
+   - Tweaked the red coloring on the turbopumps
+
 1.1 (2014-11-07) - Parts update
  - Flag decals on cargo bay and 2.5m fuel tank should no longer cast shadows on themselves. 
  - Corrected the cargo bay doors to be non-attachable. Somehow this setting got lost before release.
