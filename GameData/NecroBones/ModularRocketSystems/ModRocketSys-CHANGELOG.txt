@@ -1,5 +1,11 @@
+1.0 (2014-10-30) - Full release!?
+ - No complaints or bug reports for quite a while. Let's call it 1.0.
+ - Added LAS (Launch Abort System) consisting of LAS tower, and pod-shroud.
+ - Added two lengths of 2.5m rocket cargo bays. 
+ - Added 3.75m quad-engine
+
 0.7 (2014-10-07) - Beta Release
- - Slimmed the radial mini-tank (particularly the framework) just a hair, to help with fitting inside fairings.
+ - Slimmed the radial mini-tank (particularly the framework) just a hair, to help with fitting inside fairings and cargo bays.
  - Added support for the "Engine Ignitor" mod. Settings added to small LFO engine, and quad-nuke.
  - Added shading to the 1.25m Xenon sphere tank.
  - Tweaked Size-0 SAS module to bring it in line with 0.25
