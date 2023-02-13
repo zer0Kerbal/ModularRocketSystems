@@ -26,9 +26,19 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Preamble by [`NecroBones`][necrobones]
 
-> Tempor duis sit sunt pariatur sit quis nisi ex velit ipsum elit. Lorem enim nisi officia cillum duis aliquip nostrud excepteur aliqua quis quis quis. Nostrud occaecat mollit culpa irure fugiat culpa dolor qui excepteur mollit sint deserunt in. Id excepteur non cupidatat aute proident laborum non mollit excepteur et exercitation nostrud consectetur enim. Elit sit tempor in eiusmod fugiat commodo amet dolore in amet anim sint. Amet deserunt ullamco mollit. Sint magna culpa anim minim ea et ullamco id aute mollit.
-> Magna proident veniam est nulla velit sint aliquip est cillum fugiat duis adipisicing. Nostrud aliqua pariatur mollit irure eiusmod ipsum mollit incididunt ea labore aliqua occaecat sint voluptate magna. Tempor exercitation ea est veniam voluptate veniam reprehenderit cupidatat elit. Anim duis ad officia occaecat mollit quis. Deserunt culpa quis velit sit laborum cupidatat dolore est velit id aute dolore cillum qui est. Nulla nisi elit esse ea aliquip irure irure ea. Incididunt in esse ullamco mollit incididunt deserunt aliqua aliquip duis fugiat dolor irure mollit. Mollit do proident sint cupidatat ut nostrud ut cillum cillum ut sit cupidatat.
-> Veniam excepteur ex laboris mollit consequat quis dolore eiusmod tempor officia exercitation exercitation adipisicing proident. Proident fugiat officia mollit ipsum ipsum aliqua nostrud laboris in laboris deserunt nostrud Lorem. Sunt deserunt voluptate aliqua nostrud nostrud occaecat. Cillum sint et fugiat ullamco sint ea quis eu. Irure adipisicing aute amet officia irure commodo aliquip elit. Fugiat tempor qui nisi duis aute eiusmod est velit ut amet velit ea. Qui do aute sit do est sint.
+> Modular Rocket Systems is a parts pack for KSP, with the following design goals:
+>
+>* Fill in some of the gaps in the selection of stock parts. For example, size-3 and size-0 SAS modules, and size-3 monopropellant tanks.
+>* Preserve the stock balance. All parts have their costs, masses, and capacities chosen based on stock analogs.
+>* Provide some additional cosmetic choices. Examples include the 2.5m fuel tanks, and various nose cones. They have direct analogs in the stock line-up, and share the same stats, but give you additional aesthetic options.
+>* Maintain a stock-like appearance and seamlessly fit into the game, while following its own artistic style. This one is trickier, but by taking cues from the stock-parts, it's possible to make something new, that also fits with the game's existing aesthetic.
+>* Be friendly to your CPU/GPU. Very importantly, these parts follow most of the stock-part rules for how polygons are used, and collision meshes are configured. They shouldn't reduce your framerate any more than the stock parts do.
+>
+> All of the models and textures were made 100% from scratch, using Blender, Photoshop, and Unity. The only exception is the "mini orange tank" which borrowed a scaled-down sample of the orange pattern from the stock Jumbo Orange tank.
+>
+> [Modular Rocket Systems][MRS] is also the in-game manufacturer of these parts, and they will appear as an agency that can provide contracts for career mode (assuming I've set it up right - untested), and have a flag available for use as well.
+>
+> (Note that the stats, appearances, and descriptions of the parts shown below are subject to change, or may be out of date)
 
 ### See more
 
@@ -54,7 +64,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Variant Textures
-> * Converting from FireSpitter to Stock and/or KSPWheel  
 > * Model updates (add/improve lights, iva, hatches and so forth)
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
@@ -81,6 +90,14 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 
 ### Supports
 
+* [Add-on Version Checker (AVC)][avc]
+* [Community Tech Tree (ctt)][ctt]
+* [Connected Living Space (cls)][cls]
+* [Engine Ignitor (ign)][ing]
+* [HotRockets! (hot)][hot]
+* [Ferram Aerospace Research (far)][far]
+* [RemoteTech (RT)][rt]
+* [TweakScale (twk)][twk]
 * Either [^3]
   * [Module Manager /L][mml]
   * [Module Manager][mm]
@@ -137,45 +154,9 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
   * [Simple Cargo Solutions (CARGO)][CARGO]
   * [WhimChaser (WHIM)][WHIM]
 
-* [Stock Waterfall Effects][swfe] (experimental)
-  * Requires:
-  * [Stock Waterfall Effects][swfe]
-  * [Waterfall Core][wtfl]
-
-* [Firespitter Core][fs] for fully functioning wheels. may invoke bouts of dizziness.
-* [NEAR-FAR][far]
-* [Restock][restock]
-* [TweakScale][twk]
-
 ### Tags
 
-parts,
-physics,
-plugin,
-app,
-config,
-library,
-flags,
-agency,
-suits,
-textures,
-variants,
-control,
-convenience,
-information,
-editor,
-planet-pack,
-graphics,
-sound,
-resources,
-science,
-tech-tree,
-career,
-combat,
-comms,
-buildings,
-crewed,
-uncrewed
+parts, config, flags, agency, textures, variants, control, graphics, sound, resources, science, tech-tree, career, crewed, uncrewed
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
   <p><b>red box below is a link to forum post on how to get support</b></p>
@@ -313,32 +294,16 @@ uncrewed
 [LTEK]: https://forum.kerbalspaceprogram.com/index.php?/topic/207923-*/ "LanderTek (LTK)"
 [WHIM]: https://forum.kerbalspaceprogram.com/index.php?/topic/204900-*/ "WhimChaser (WHIM)"
 
-[atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
-[b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
-[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
-[fiva]: https://www.curseforge.com/kerbal/ksp-mods/free-iva "Free IVA"
-[fs]: https://github.com/snjo/Firespitter/ "Firespitter Core"
-[ifs]: https://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch"
-[ifsc]: https://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch (Core)"
-[jc]: https://forum.kerbalspaceprogram.com/index.php?/topic/147463-*/ "The Janitor's Closet"
-[kas]: https://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
-[kis]: https://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
-[kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement"
-[kspie]: https://forum.kerbalspaceprogram.com/index.php?/topic/172026-*/ "KSP Interstellar Extended (KSPIE)"
-[kurs]: https://github.com/linuxgurugamer/DockingCam "KURS style docking camera"
-[mas]: https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*/ "MOARdV's Avionics System"
+[avc]: https://forum.kerbalspaceprogram.com/index.php?/topic/173126-*/ "Add-on Version Checker (AVC)"
+[cls]: https://forum.kerbalspaceprogram.com/index.php?showtopic=192130-*/ "Connected Living Space"
+[ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/ "Community Tech Tree (ctt)"
+[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "Ferram Aerospace Research"
+[hot]: https://forum.kerbalspaceprogram.com/threads/65754-*/ "HotRockets! (hot)"
+[ing]: https://forum.kerbalspaceprogram.com/index.php?/topic/168424-*/ "Engine Ignitor (ign)"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[restock]: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/ "Restock"
-[rlp]: https://forum.kerbalspaceprogram.com/index.php?/topic/188033-*/ "Real Plume"
-[rpm]: https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*/ "Raster Prop Monitor"
-[swfe]: https://forum.kerbalspaceprogram.com/index.php?/topic/200334-*/ "Stock Waterfall Effects"
-[tbc]: https://forum.kerbalspaceprogram.com/index.php?/topic/169509-* "ToolbarController"
-[tufx]: https://forum.kerbalspaceprogram.com/index.php?/topic/192212-*/ "TUFX"
+[rt]: https://remotetechnologiesgroup.github.io/RemoteTech/ "RemoteTech (RT)"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
-[usic]: https://forum.kerbalspaceprogram.com/index.php?/topic/122420-*/ "USI Core"
-[usim]: https://forum.kerbalspaceprogram.com/index.php?/topic/154587-*/ "USI Kolonization Systems (MKS/OKS)"
-[wtfl]: https://forum.kerbalspaceprogram.com/index.php?/topic/196309-*/ "Waterfall Core"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
