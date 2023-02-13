@@ -1,3 +1,12 @@
+0.7 (2014-10-07) - Beta Release
+ - Slimmed the radial mini-tank (particularly the framework) just a hair, to help with fitting inside fairings.
+ - Added support for the "Engine Ignitor" mod. Settings added to small LFO engine, and quad-nuke.
+ - Added shading to the 1.25m Xenon sphere tank.
+ - Tweaked Size-0 SAS module to bring it in line with 0.25
+ - Moved Xenon-tanks to Propulsion tab, to match 0.25
+ - Reduced mass of 1.25m (size-1) nose cones to match 0.25
+ - Reduced mass of 0.625m (size-0) nose cone to match the size-1 cones (beating out 0.25)
+
 0.6 (2014-09-24) - Beta Release
  - Fixed 6x symmetry under the 3.75m to 7-way 1.25m adapter
  - Adjusted collision mesh on Aerodynamic Pylons to support vertical-snap in Editor Extensions
