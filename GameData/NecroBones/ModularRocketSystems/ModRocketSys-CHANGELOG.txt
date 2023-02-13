@@ -1,0 +1,17 @@
+
+0.3 (2014-09-11) - Beta release.
+	- Added 2.5m to 1.25m hollow cone adapter
+	- Added "Flingatron" (3x Sepratron)
+	- Added pressurized sphere xenon container
+	- Added 0.625m probe fuel canister
+	- Added 1.25m to 4x 0.625m quad adapter
+	- Added 1.25m to 5x 0.625m adapter
+	- Added 0.625m Stackable Monopropellant engine.
+	- Added 0.625m Efficient LFO engine.
+	- Reshaped the fairings on the 2.5m to 5x 1.25m adapter
+
+0.2 (2014-09-06) - Initial Public Beta release. 
+
+0.1 - Alpha test version. 
+
+0.0 - Internal and external Alpha test version.
