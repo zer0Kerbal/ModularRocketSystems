@@ -1,14 +1,25 @@
 
+0.4 (2014-09-15) - Beta Release
+ - Added TweakScale support to most parts
+ - Added engine glow to the 0.625m tiny LFO engine.
+ - Adjusted surface attachment for Xenon Sphere tanks so they don't "float" off the surface
+ - Added "large" (1.25m) xenon sphere tanks
+ - Added 2.5m to 1.25m cone adapter fuel tank
+ - Added 2.5m "4x LV-N" quad-nuclear engine.
+ - Added 1.25m and 0.625m air intakes
+ - Added 0.625m Turbojet.
+ - Added two lengths of 0.625m jet fuel tanks
+
 0.3 (2014-09-11) - Beta release.
-	- Added 2.5m to 1.25m hollow cone adapter
-	- Added "Flingatron" (3x Sepratron)
-	- Added pressurized sphere xenon container
-	- Added 0.625m probe fuel canister
-	- Added 1.25m to 4x 0.625m quad adapter
-	- Added 1.25m to 5x 0.625m adapter
-	- Added 0.625m Stackable Monopropellant engine.
-	- Added 0.625m Efficient LFO engine.
-	- Reshaped the fairings on the 2.5m to 5x 1.25m adapter
+ - Added 2.5m to 1.25m hollow cone adapter
+ - Added "Flingatron" (3x Sepratron)
+ - Added pressurized sphere xenon container
+ - Added 0.625m probe fuel canister
+ - Added 1.25m to 4x 0.625m quad adapter
+ - Added 1.25m to 5x 0.625m adapter
+ - Added 0.625m Stackable Monopropellant engine.
+ - Added 0.625m Efficient LFO engine.
+ - Reshaped the fairings on the 2.5m to 5x 1.25m adapter
 
 0.2 (2014-09-06) - Initial Public Beta release. 
 
