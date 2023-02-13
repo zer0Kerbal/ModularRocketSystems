@@ -1,3 +1,18 @@
+0.5 (2014-09-19) - Beta Release
+ - Cosmetic adjustment: Quad-Nuclear engine:
+    - Lightened the grey color of the reactors
+    - Increased engine bell's size by 9%.
+ - Cosmetic adjustment: 3.75m monopropellant tank: added white stripes 
+ - Cosmetic adjustment: Xenon sphere tanks: added nodes to support struts
+ - Cosmetic adjustment: 0.625m jet-fuel tanks: Changed around stripes
+ - Reduced texture resolution of matching 2.5m and 1.25m nose cones to be more appropriate
+ - Added "three-quarter jumbo" fuel tank, with flag decals
+ - Added size-2 ASAS module (20% higher torque/mass/cost than stock unit)
+ - Added three sizes of aerodynamic structural pylons
+ - Added 0.625m (size-0) nose cone
+ - Added 0.625m basic jet engine + intake (as a matching set to the turbojets from last update)
+ - Added 1.25m "Guidance Nose Cone" probe core + reaction wheels + small battery.
+ - Added Fuel-Cell electric generators: Radial, 1.25m.
 
 0.4 (2014-09-15) - Beta Release
  - Added TweakScale support to most parts
