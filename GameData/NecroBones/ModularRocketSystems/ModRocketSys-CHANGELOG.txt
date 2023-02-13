@@ -1,3 +1,12 @@
+0.6 (2014-09-24) - Beta Release
+ - Fixed 6x symmetry under the 3.75m to 7-way 1.25m adapter
+ - Adjusted collision mesh on Aerodynamic Pylons to support vertical-snap in Editor Extensions
+ - Enabled Remote-Tech support to the Guidance Nose Cone.
+ - Added radial 600-unit battery
+ - increased size of radial fuel-cell
+ - Added AVC (Add-on Version Checker) support
+	See: http://forum.kerbalspaceprogram.com/threads/79745
+
 0.5 (2014-09-19) - Beta Release
  - Cosmetic adjustment: Quad-Nuclear engine:
     - Lightened the grey color of the reactors
