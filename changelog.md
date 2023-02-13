@@ -780,9 +780,10 @@ See: http://forum.kerbalspaceprogram.com/threads/79745-*/
 
 ## Version 0.3.0.0-beta `<Archival>`
 
-* Beta release
+* Kerbal Space Program 0.24.2
 * 11 Sep 2014
 
+* Beta release
 * Added 2.5m to 1.25m hollow cone adapter
 * Added "Flingatron" (3x Sepratron)
 * Added pressurized sphere xenon container
