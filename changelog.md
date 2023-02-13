@@ -694,9 +694,10 @@
 
 ## Version 0.7.0.0-beta `<Archival>`
 
-* Beta Release
 * 07 Oct 2014
+* Kerbal Space Program 0.25.0
 
+* Beta Release
 * Slimmed the radial mini-tank (particularly the framework) just a hair, to help with fitting inside fairings and cargo bays.
 * Added support for the "Engine Ignitor" mod. Settings added to small LFO engine, and quad-nuke.
 * Added shading to the 1.25m Xenon sphere tank.
@@ -714,7 +715,6 @@
 ## Version 0.6.0.0-beta `<Archival>`
 
 * 24 Sep 2014
-* Kerbal Space Program 0.24.2
 
 * Beta Release
 * Fixed 6x symmetry under the 3.75m to 7-way 1.25m adapter
