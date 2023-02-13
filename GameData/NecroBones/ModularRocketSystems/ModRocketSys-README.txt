@@ -31,6 +31,11 @@ send a private message to NecroBones on the KSP forums. Thanks!
 Forum Release-Thread:
 http://forum.kerbalspaceprogram.com/threads/93067
 
+Kerbal Stuff (download):
+https://kerbalstuff.com/mod/148/Modular%20Rocket%20Systems%20-%20Parts%20Pack
+
+Curse.com (download):
+http://kerbal.curseforge.com/ksp-mods/224105-modular-rocket-systems-stock-alike-parts-mod
 
 This parts pack is being shared under the CC-NC-SA license:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
