@@ -1,3 +1,12 @@
+1.1 (2014-11-07) - Parts update
+ - Flag decals on cargo bay and 2.5m fuel tank should no longer cast shadows on themselves. 
+ - Corrected the cargo bay doors to be non-attachable. Somehow this setting got lost before release.
+ - Moved the "radial booster tank" to an earlier node in the tech tree.
+ - Added Engine-Ignitor support to the Size-3 (3.75m) Quad Engine. 
+ - Added Size-3 (3.75m) Poodle-like "Terrier" engine.
+ - Added Size-1 (1.25m) rocket cargo bay.
+ - Added radially-attached probe core.
+
 1.0 (2014-10-30) - Full release!?
  - No complaints or bug reports for quite a while. Let's call it 1.0.
  - Added LAS (Launch Abort System) consisting of LAS tower, and pod-shroud.
