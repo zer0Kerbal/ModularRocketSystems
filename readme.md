@@ -26,22 +26,19 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Preamble by [`NecroBones`][necrobones]
 
-Modular Rocket Systems is a parts pack for KSP, with the following design goals:
-
-Fill in some of the gaps in the selection of stock parts. For example, size-3 and size-0 SAS modules, and size-3 monopropellant tanks.
-Preserve the stock balance. All parts have their costs, masses, and capacities chosen based on stock analogs.
-Provide some additional cosmetic choices. Examples include the 2.5m fuel tanks, and various nose cones. They have direct analogs in the stock line-up, and share the same stats, but give you additional aesthetic options.
-Maintain a stock-like appearance and seamlessly fit into the game, while following its own artistic style. This one is trickier, but by taking cues from the stock-parts, it's possible to make something new, that also fits with the game's existing aesthetic.
-Be friendly to your CPU/GPU. Very importantly, these parts follow most of the stock-part rules for how polygons are used, and collision meshes are configured. They shouldn't reduce your framerate any more than the stock parts do.
- 
-
-All of the models and textures were made 100% from scratch, using Blender, Photoshop, and Unity. The only exception is the "mini orange tank" which borrowed a scaled-down sample of the orange pattern from the stock Jumbo Orange tank.
-
-"Modular Rocket Systems" is also the in-game manufacturer of these parts, and they will appear as an agency that can provide contracts for career mode (assuming I've set it up right - untested), and have a flag available for use as well.
-
-Image Gallery:
-
-(Note that the stats, appearances, and descriptions of the parts shown below are subject to change, or may be out of date)
+> Modular Rocket Systems is a parts pack for KSP, with the following design goals:
+>
+>* Fill in some of the gaps in the selection of stock parts. For example, size-3 and size-0 SAS modules, and size-3 monopropellant tanks.
+>* Preserve the stock balance. All parts have their costs, masses, and capacities chosen based on stock analogs.
+>* Provide some additional cosmetic choices. Examples include the 2.5m fuel tanks, and various nose cones. They have direct analogs in the stock line-up, and share the same stats, but give you additional aesthetic options.
+>* Maintain a stock-like appearance and seamlessly fit into the game, while following its own artistic style. This one is trickier, but by taking cues from the stock-parts, it's possible to make something new, that also fits with the game's existing aesthetic.
+>* Be friendly to your CPU/GPU. Very importantly, these parts follow most of the stock-part rules for how polygons are used, and collision meshes are configured. They shouldn't reduce your framerate any more than the stock parts do.
+>
+> All of the models and textures were made 100% from scratch, using Blender, Photoshop, and Unity. The only exception is the "mini orange tank" which borrowed a scaled-down sample of the orange pattern from the stock Jumbo Orange tank.
+>
+> [Modular Rocket Systems][MRS] is also the in-game manufacturer of these parts, and they will appear as an agency that can provide contracts for career mode (assuming I've set it up right - untested), and have a flag available for use as well.
+>
+> (Note that the stats, appearances, and descriptions of the parts shown below are subject to change, or may be out of date)
 
 ### See more
 
@@ -67,7 +64,6 @@ Image Gallery:
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Variant Textures
-> * Converting from FireSpitter to Stock and/or KSPWheel  
 > * Model updates (add/improve lights, iva, hatches and so forth)
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
