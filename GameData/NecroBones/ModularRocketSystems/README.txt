@@ -5,7 +5,7 @@ by Ed T. Toton III, aka NecroBones.
 
 Installation:
 
-Smiply copy the "ModRocketSys" folder into your GameData folder. If upgrading from a 
+Simply copy the "ModRocketSys" folder into your GameData folder. If upgrading from a 
 previous version, be sure to delete the old one from GameData first (this is the cleanest
 option).
 
