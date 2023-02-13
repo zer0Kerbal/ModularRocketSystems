@@ -689,9 +689,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.0.0.0-release `<Archival>`
 
-* Full release!
+* Kerbal Space Program 0.25.0
 * 30 Oct 2014
 
+* Full release!
 * No complaints or bug reports for quite a while. Let's call it 1.0.
 * Added LAS (Launch Abort System) consisting of LAS tower, and pod-shroud.
 * Added two lengths of 2.5m rocket cargo bays.
