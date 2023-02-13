@@ -810,10 +810,12 @@ See: http://forum.kerbalspaceprogram.com/threads/79745-*/
 
 ---
 
-## Version 0.2.0.0-release `<Archival>`
+## Version 0.2.0.0-beta `<Archival>`
+
+* 06 Sep 2014
+* Kerbal Space Program 0.24.2
 
 * Initial Public Beta release.
-* 06 Sep 2014
 
 * Issues
   * updates #7 - Archival Releases
