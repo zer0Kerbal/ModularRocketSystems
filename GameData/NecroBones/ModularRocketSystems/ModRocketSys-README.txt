@@ -28,6 +28,9 @@ We hope you enjoy this pack. If you have any comments or feedback, please feel f
 send a private message to NecroBones on the KSP forums. Thanks!
 
 
+Forum Release-Thread:
+http://forum.kerbalspaceprogram.com/threads/93067
+
 
 This parts pack is being shared under the CC-NC-SA license:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
