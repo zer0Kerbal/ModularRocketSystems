@@ -15,8 +15,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 # Modular Rocket Systems (MRS)
 
-*blurb*
-
+A stock-alike parts pack that fills in a variety of gaps in the stock lineup of rocketry parts.
 
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`NecroBones`][necrobones]
@@ -40,11 +39,15 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [Marketing Slicks][markt]
 >* [Parts Catalog][parts] for part pictures
 
-### YouTube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+### YouTube
 
-[![Kottabos reviews ModularRocketSystems](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://youtu.be/Oj1etoybd7E)
-https://www.youtube.com/watch?v=YdBiifPVCeA
-https://www.youtube.com/watch?v=SSDCyMnXeIE
+* Review by [`TinyPirate`](https://www.youtube.com/@TinyPirate)
+
+[![Modular Rocket System - 2 Minute Mods - Kerbal Space Program 03](https://img.youtube.com/vi/YdBiifPVCeA/0.jpg)](https://youtu.be/YdBiifPVCeA)
+
+* Review by [`Skyehawk`](https://www.youtube.com/@Skyehawk)
+
+[![Kerbal Space Program Mod Spotlight || Modular Rocket Systems](https://img.youtube.com/vi/SSDCyMnXeIE.jpg)](https://youtu.be/SSDCyMnXeIE)
 
 ### Help Wanted
 
