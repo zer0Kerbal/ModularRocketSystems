@@ -824,9 +824,11 @@ See: http://forum.kerbalspaceprogram.com/threads/79745-*/
 
 ## Version 0.0.0.0-alpha `<Archival>`
 
+* 29 Aug 2014
+* Kerbal Space Program 0.24.2
+
 * Alpha test version.
 * Internal and external Alpha test version
-* 29 Aug 2014
 
 * Issues
   * updates #7 - Archival Releases
