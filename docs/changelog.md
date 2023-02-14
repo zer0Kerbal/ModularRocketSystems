@@ -360,7 +360,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * 11 Jun 2015
 * Kerbal Space Program 1.0.2
 
-* Cargo-Bay overhaul + Tweaks and fixe
+* Cargo-Bay overhaul + Tweaks and fixes
 * Updated Deadly Reentry config with more current data.
 * Tweaked some settings on cargo bays.
 * Added VAB/SPH transparency to cargo bays.
