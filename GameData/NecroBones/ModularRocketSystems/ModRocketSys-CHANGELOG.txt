@@ -3,6 +3,13 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.7 (2015-09-11) - Cargo-Bay overhaul + Tweaks and fixes
+ - Updated Deadly Reentry config with more current data.
+ - Tweaked some settings on cargo bays.
+ - Added VAB/SPH transparency to cargo bays.
+ - Added "Animated Decouplers" support for LAS Shroud (to make it shield properly in stock aero, AD needs to be installed).
+ - Overhauled the cargobay doors, so they don't get in the way as much.
+
 1.6.6 (2015-05-28) - More balancing
  - Increased mass of Quad-Nuke to 12, to match 4x stock LV-N nuclear engine. 
  - Added "inline" (stackable) drill with internal storage.

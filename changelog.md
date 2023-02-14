@@ -368,7 +368,7 @@
 * 28 May 2015
 * Kerbal Space Program 1.0.2
 
-* More balancin
+* More balancing
 * N nuclear engine.  Nuke to 12, to match 4x stock LV Increased mass of Quad
 * Added "inline" (stackable) drill with internal storage.
 * Switched flag/agency images back to PNG format so they'll work again.
