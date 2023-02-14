@@ -1,3 +1,14 @@
+Modular Rocket Systems  -and-  Modular Rocket Systems Lite
+
+These are considered to be the same mod, just one with a smaller selection of the
+same parts than the other, so they share the same README and revision history.
+
+1.5.1 (2015-02-10) - Minor adjustments
+ - Released "Lite" version of mod.
+ - Corrected a badly-positioned seam on the 2.5m->1.25m adapter cone.
+ - Slightly improved contrast in the long landing-leg texture.
+ - Corrected typos that prevented the LAS tower and Flingatron from showing in the manufacturer tab.
+
 1.5 (2015-01-16) - And so on, etc.
  - Corrected the name of the 0.625m basic air intake (claimed to be 1.25m).
  - Increased LAS tower's fuel, thrust, and burn time. 
