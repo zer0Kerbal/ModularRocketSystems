@@ -248,9 +248,10 @@
 
 ## Version 1.10.0.0-release `<Archival>`
 
-* KSP 1.0.5 update
 * 11 Nov 2015
+* Kerbal Space Program 1.0.5
 
+* KSP 1.0.5 update
 * Adjusted inner attachment nodes on cargo bays to be offset inward like new stock settings on cargo bays.
 * Cargo bays now have settings for door deployment limits.
 * Flingatrons updated to use new contract constraints, and exhaust damage reducer, and other thermal settings.
@@ -270,9 +271,10 @@
 
 ## Version 1.9.0.0-release `<Archival>`
 
-* N7-Day Update
 * 07 Nov 2015
+* Kerbal Space Program 1.0.4
 
+* N7-Day Update
 * Added support for HullCameraVDS to the radial probe core panels.
 * Adjusted MM patch filenames to be more consistent.
 * Added docking lights to the docking helpers.
