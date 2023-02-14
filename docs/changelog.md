@@ -553,9 +553,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.4.3.0-release `<Archival>`
 
-* More 0.90 adjustments
 * 22 Dec 2014
+* Kerbal Space Program 0.90.0
 
+* More 0.90 adjustments
 * Reduced reaction wheel strength in Guidance Nose Cone for career balancing.
 * Reverted removal (re-added) the basic SAS capability in the Guidance Nose Cone.
 * Added basic Deadly Reentry support for the nose cones and guidance cone.
@@ -569,12 +570,12 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.4.2.0-release `<Archival>`
 
-* More 0.90 adjustments
 * 20 Dec 2014
+* Kerbal Space Program 0.90.0
 
+* More 0.90 adjustments
 * core. Control only, early in the tech tree. cone and radial probe Removed SAS from the guidance nose
 * Renamed most parts, for improved name sorting in the new menus.
-
 
 * Issues
   * updates #7 - Archival Releases
@@ -585,9 +586,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.4.1.0-release `<Archival>`
 
-* Minor fix
 * 16 Dec 2014
+* Kerbal Space Program 0.90.0
 
+* Minor fix
 * Fixed manufacturer icon in VAB/SPH manufacturer-sort.
 
 * Issues

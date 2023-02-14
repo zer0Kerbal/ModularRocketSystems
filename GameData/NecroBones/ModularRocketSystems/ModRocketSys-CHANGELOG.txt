@@ -1,3 +1,6 @@
+1.4.1 (2014-12-16) - Minor fix
+ - Fixed manufacturer icon in VAB/SPH manufacturer-sort.
+
 1.4 (2014-12-15) - Fixes, And so on.
  - No changes necessary for 0.90:
     - Engine/FuelTank split is automatic
