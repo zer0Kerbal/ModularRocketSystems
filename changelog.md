@@ -319,9 +319,10 @@
 
 ## Version 1.7.3.0-release `<Archival>`
 
-* Tweaks
 * 07 Jul 2015
+* Kerbal Space Program 1.0.4
 
+* Tweaks
 * Added ConductionFactor/convectionflux settings for cargo bays.
 * Added support for Interstellar/FS Fuel Switch.
 
