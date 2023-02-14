@@ -1,3 +1,7 @@
+1.4.2 (2013-12-20) - More 0.90 adjustment
+ - Removed SAS from the guidance nose-cone and radial probe-core. Control only, early in the tech tree.
+ - Renamed most parts, for improved name sorting in the new menus.
+
 1.4.1 (2014-12-16) - Minor fix
  - Fixed manufacturer icon in VAB/SPH manufacturer-sort.
 
