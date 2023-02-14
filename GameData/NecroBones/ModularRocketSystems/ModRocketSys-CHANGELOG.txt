@@ -3,6 +3,9 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.6.1 (2015-04-29) - Bays are back, baby.
+ - Re-added cargo bays.
+
 1.6 (2015-04-29) - Fixes/Balancing for KSP 1.0
  - Many 1.0 balance changes. Including, but not limited to:
     - Quad-Nuke: ASL ISP reduced, Mass increased, no longer uses oxidizer.
@@ -11,6 +14,7 @@ same parts than the other, so they share the same README and revision history.
     - Adjusted bottom attchment nodes to correspond to KSP 1.0 orientation.
  - Cargo Bays (hopefully) temporarily removed, to be reworked for 1.0.
  - Removed "radial booster tank".
+ - Removed fuel cells.
 
 1.5.1 (2015-02-10) - Minor adjustments
  - Released "Lite" version of mod.
