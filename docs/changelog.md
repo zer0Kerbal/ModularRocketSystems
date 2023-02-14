@@ -445,9 +445,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.6.2.0-release `<Archival>`
 
-* More 1.0 tweaks + 1.0.1 compatibilit
 * 01 May 2015
+* Kerbal Space Program 1.0.2
 
+* More 1.0 tweaks + 1.0.1 compatibilit
 * like. temps on engines to be more stock Adjusted max
 * Fixed the "Hound" engine's description to no longer say "Terrier".
 * Adjusted the Guidance Nose Cone to have slightly less torque, and increased electrical usage.
