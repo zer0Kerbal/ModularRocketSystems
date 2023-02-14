@@ -137,9 +137,10 @@
 
 ## Version 1.12.3.0-release `<Archival>`
 
-* KSP 1.1 Hotfix
 * 29 Mar 2016
+* Kerbal Space Program 1.1.0
 
+* KSP 1.1 Hotfix
 * Landing legs updated to not be 100% deadly. Suspension still doesn't work, legs are rigid for now.
 * Added tags for most parts.
 
