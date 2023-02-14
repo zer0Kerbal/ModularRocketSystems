@@ -3,6 +3,11 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.7.2 (2015-06-22) - KSP 1.0.3 balance updates
+ - Updated thermal settings for many parts.
+ - Modified quad-nuke's heat generation to match stock.
+ - Updated 0.625m jet engine performance to match stock (defined as 0.3x stock 1m jets). 
+
 1.7.1 (2015-06-19) - Tweaks
  - Reduced texture resolution of 2.5m "low profile" decoupler by half (75% reduction in the texture's memory requirement).
  - Increased the suspension strength of landing legs.
