@@ -226,9 +226,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.11.0.0-release `<Archival>`
 
-* Decoupler pass
 * 02 Dec 2015
+* Kerbal Space Programm 1.0.5
 
+* Decoupler pass
 * Increased heat tolerance of 2.5m stack decouplers by 200 degrees.
 * 2.5m "low profile" stack decoupler updates:
   * Added internal "sepratron" solid motors as optional separation aids (remove propellant to not use).
@@ -244,9 +245,9 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.10.1.0-release `<Archival>`
 
-* Tweaks/Fixes, mainline MRS only
 * 13 Nov 2015
 
+* Tweaks/Fixes, mainline MRS only
 * 0.625m air intakes have intake speed restored to match their bigger brothers.
 * Corrected a variety of effects+gimbal problems with the 3.75m quad cluster engine, introduced in 1.10.
 
