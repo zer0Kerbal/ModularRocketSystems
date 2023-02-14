@@ -3,6 +3,10 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.10.1 (2015-11-13) Tweaks/Fixes, mainline MRS only.
+ - 0.625m air intakes have intake speed restored to match their bigger brothers. 
+ - Corrected a variety of effects+gimbal problems with the 3.75m quad cluster engine, introduced in 1.10.
+
 1.10 (2015-11-11) - KSP 1.0.5 update.
  - Adjusted inner attachment nodes on cargo bays to be offset inward like new stock settings on cargo bays.
  - Cargo bays now have settings for door deployment limits.
