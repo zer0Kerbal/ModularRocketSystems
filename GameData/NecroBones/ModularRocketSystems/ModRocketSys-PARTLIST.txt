@@ -75,6 +75,7 @@ As a general rule, parts have their mass, cost, capacities, and so forth based o
 [*]Fuel Cell, Radial  (fuel cells use fuel to generate electricity when turned on)
 [*]RCS 5-way Block
 [*]RCS "Corner" Diagonal Block
+[*]Long Landing Legs
 [/list]
 
 
