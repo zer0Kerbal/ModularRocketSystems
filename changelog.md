@@ -20,6 +20,7 @@
 * Issues
   * closes #7 - Archival Releases
   * closes #64 - 1.13.2.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -34,6 +35,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #63 - 1.13.1.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -50,6 +52,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #62 - 1.13.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -69,6 +72,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #61 - 1.12.8.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -83,6 +87,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #60 - 1.12.7.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -96,6 +101,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #59 - 1.12.6.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -111,6 +117,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #58 - 1.12.5.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -124,6 +131,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #57 - 1.12.4.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -138,6 +146,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #56 - 1.12.3.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -151,6 +160,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #55 - 1.12.2.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -165,6 +175,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #54 - 1.12.1.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -182,6 +193,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #53 - 1.12.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -197,6 +209,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #52 - 1.11.1.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -214,6 +227,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #51 - 1.11.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -228,6 +242,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #50 - 1.10.1.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -249,6 +264,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #49 - 1.10.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -264,6 +280,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #48 - 1.9.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -281,6 +298,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #47 - 1.8.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -295,6 +313,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #46 - 1.7.4.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -309,6 +328,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #45 - 1.7.3.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -325,6 +345,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #44 - 1.7.2.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
@@ -341,6 +362,7 @@
 * Issues
   * updates #7 - Archival Releases
   * closes #43 - 1.7.1.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
