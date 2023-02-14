@@ -315,9 +315,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.7.4.0-release `<Archival>`
 
-* Tweaks
 * 06 Oct 2015
+* Kerbal Space Program 1.0.4
 
+* Tweaks
 * Increased heat tolerance of the ore drill/tank combo part.
 * Fuel switching config will not enable if Starlion Industries KSPI is installed, deferring to its settings.
 
