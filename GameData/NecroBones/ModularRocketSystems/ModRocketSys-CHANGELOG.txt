@@ -3,7 +3,14 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
-1.10.1 (2015-11-13) Tweaks/Fixes, mainline MRS only.
+1.11 (2015-12-02) - Decoupler pass.
+ - Increased heat tolerance of 2.5m stack decouplers by 200 degrees.
+ - 2.5m "low profile" stack decoupler updates:
+    - Added internal "sepratron" solid motors as optional separation aids (remove propellant to not use).
+    - Increased cost and base mass (to balance this against stock decoupler).
+    - Added drag-cube to match stock decoupler. 
+
+1.10.1 (2015-11-13) - Tweaks/Fixes, mainline MRS only.
  - 0.625m air intakes have intake speed restored to match their bigger brothers. 
  - Corrected a variety of effects+gimbal problems with the 3.75m quad cluster engine, introduced in 1.10.
 
