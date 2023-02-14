@@ -3,6 +3,11 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.6.6 (2015-05-28) - More balancing
+ - Increased mass of Quad-Nuke to 12, to match 4x stock LV-N nuclear engine. 
+ - Added "inline" (stackable) drill with internal storage.
+ - Switched flag/agency images back to PNG format so they'll work again.
+
 1.6.5 (2015-05-22) - Fixes & Tweaks
  - Corrected the HotRockets config for the 0.625m jet engines.
  - Explicitly defined fuelCrossFeed=False for radial decouplers.
