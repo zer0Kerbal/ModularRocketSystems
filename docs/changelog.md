@@ -344,7 +344,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * 19 Jun 2015
 * Kerbal Space Program 1.0.2
 
-* Tweak
+* Tweaks
 * Reduced texture resolution of 2.5m "low profile" decoupler by half (75% reduction in the texture's memory requirement).
 * Increased the suspension strength of landing legs.
 * Tweaked thermal properties of landing legs.
