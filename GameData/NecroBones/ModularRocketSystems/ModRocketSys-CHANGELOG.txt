@@ -3,6 +3,13 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.12 (2016-03-17) - Minor Update.
+ - Added ConnectedLivingSpace configs for slimline 2.5m docking port, and cargo bays.
+ - Changed attachment rules for docking helpers, to allow surface-attaching them (and in turn turned off accepting surface attachment).
+ - Reduced Guidance Nose-Cone's capabilities some more. Removed remaining SAS, weakened reaction wheel, lowered max temp.
+ - Redesigned RCS blocks to look more stock-alike, and tweaked their price and mass.
+ - Added RCS blocks to the "Lite" pack.
+
 1.11.1 (2016-01-29) - Fixes.
  - Corrected a typo with thermalMassModifier in the LAS Shroud.
  - Corrected a typo with Agency mentality.
