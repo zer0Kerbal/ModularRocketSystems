@@ -30,7 +30,6 @@ Where possible, they are direct ratios of stock parts.
 [*]Size adapter, 3.75m -> 2.5m
 [*]Size adapter, 2.5m -> 1.25m
 [*]3.75m Monopropellant
-[*]1.25m Radial Booster Tank
 [*]0.625m Xenon Sphere Tank
 [*]1.25m Xenon Sphere Tank
 [/list]
