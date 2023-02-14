@@ -503,9 +503,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.5.1.0-release `<Archival>`
 
-* Minor adjustment
 * 10 Feb 2015
+* Kerbal Space Program 0.90.0
 
+* Minor adjustment
 * Released "Lite" version of mod.
 * >1.25m adapter cone. positioned seam on the 2.5m Corrected a badly
 * Slightly improved contrast in the long landing-leg texture.
