@@ -201,6 +201,7 @@
 
 * Fixes
 * 29 Jan 2016
+* Kerbal Space Program 1.0.5
 
 * Corrected a typo with thermalMassModifier in the LAS Shroud.
 * Corrected a typo with Agency mentality.
@@ -216,7 +217,7 @@
 ## Version 1.11.0.0-release `<Archival>`
 
 * 02 Dec 2015
-* Kerbal Space Programm 1.0.5
+* Kerbal Space Program 1.0.5
 
 * Decoupler pass
 * Increased heat tolerance of 2.5m stack decouplers by 200 degrees.
@@ -235,6 +236,7 @@
 ## Version 1.10.1.0-release `<Archival>`
 
 * 13 Nov 2015
+* Kerbal Space Program 1.0.5
 
 * Tweaks/Fixes, mainline MRS only
 * 0.625m air intakes have intake speed restored to match their bigger brothers.
