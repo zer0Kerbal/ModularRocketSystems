@@ -3,6 +3,17 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.6.2 (2015-05-01) - More 1.0 tweaks + 1.0.1 compatability
+ - Adjusted max-temps on engines to be more stock-like.
+ - Fixed the "Hound" engine's description to no longer say "Terrier".
+ - Adjusted the Guidance Nose Cone to have slightly less torque, and increased electrical usage.
+ - Improved gimbal on several engines.
+ - Adjusted heat generation on rocket engines to correspond to KSP 1.0.1 changes.
+ - Adjusted all engine thrust numbers to correspond to KSP 1.0.1 changes.
+ - Fixed the attachment node on the 1.25m "rounded" nose cone.
+ - Added "drag box" settings for cargo bays.
+ - Converted textures to DDS format.
+
 1.6.1 (2015-04-29) - Bays are back, baby.
  - Re-added cargo bays.
 
@@ -15,6 +26,7 @@ same parts than the other, so they share the same README and revision history.
  - Cargo Bays (hopefully) temporarily removed, to be reworked for 1.0.
  - Removed "radial booster tank".
  - Removed fuel cells.
+ - Renamed the "Terrier" engine: "Hound"
 
 1.5.1 (2015-02-10) - Minor adjustments
  - Released "Lite" version of mod.
