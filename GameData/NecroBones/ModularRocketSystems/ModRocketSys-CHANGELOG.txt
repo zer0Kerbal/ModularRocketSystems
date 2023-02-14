@@ -3,6 +3,17 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.10 (2015-11-11) - KSP 1.0.5 update.
+ - Adjusted inner attachment nodes on cargo bays to be offset inward like new stock settings on cargo bays.
+ - Cargo bays now have settings for door deployment limits.
+ - Flingatrons updated to use new contract constraints, and exhaust damage reducer, and other thermal settings.
+ - RTG updated to use new passive core temperature system. 
+ - Inline Drill/Tank combo updated to use the stock drill's new settings.
+ - Fuel crossfeed toggle added to aerodynamic pylons.
+ - Engines (except quad-nuke) updated to use FXModuleAnimateThrottle. 
+ - Engines, decouplers/separators, etc updated to use new stock-alike thermal settings and contract constraints.
+ - Jet Engines and Air Intakes rebalanced.
+
 1.9 (2015-11-07) - N7-Day Update.
  - Added support for HullCameraVDS to the radial probe core panels.
  - Adjusted MM patch filenames to be more consistent.
