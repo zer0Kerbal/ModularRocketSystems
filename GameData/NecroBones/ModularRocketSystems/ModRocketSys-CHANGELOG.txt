@@ -1,4 +1,9 @@
-1.4.2 (2013-12-20) - More 0.90 adjustment
+1.4.3 (2014-12-22) - More 0.90 adjustment
+ - Reduced reaction wheel strength in Guidance Nose Cone for career balancing.
+ - Reverted removal (re-added) the basic SAS capability in the Guidance Nose Cone.
+ - Added basic Deadly Reentry support for the nose cones and guidance cone.
+
+1.4.2 (2014-12-20) - More 0.90 adjustment
  - Removed SAS from the guidance nose-cone and radial probe-core. Control only, early in the tech tree.
  - Renamed most parts, for improved name sorting in the new menus.
 
