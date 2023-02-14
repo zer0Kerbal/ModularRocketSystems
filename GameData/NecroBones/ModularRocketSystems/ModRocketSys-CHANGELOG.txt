@@ -3,6 +3,10 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.12.1 (2016-03-17) - Nose cone hotfix.
+ - Re-added basic stability control to the Guidance Nose Cone.
+ - Moved Guidance Nose Cone to "Engineering 101" tech node, so that it at least has to be unlocked before use.
+
 1.12 (2016-03-17) - Minor Update.
  - Added ConnectedLivingSpace configs for slimline 2.5m docking port, and cargo bays.
  - Changed attachment rules for docking helpers, to allow surface-attaching them (and in turn turned off accepting surface attachment).
