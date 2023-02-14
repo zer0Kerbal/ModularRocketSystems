@@ -3,6 +3,13 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.8 (2015-10-08) - Tweaks and RTG.
+ - Corrected a typo in the menu category for the slimline 2.5m decoupler.
+ - 2.5m "three quarter" tank moved up to the Advanced Fuel Systems tech node.
+ - 2.5m->3.75m adapter tank moved up to Large Voluma Containment tech node.
+ - Corrected an issue with Flag Decals on the cargo bays not displaying correctly in the VAB/SPH editors.
+ - Added a 6.25x RTG unit.
+
 1.7.4 (2015-10-06) - Tweaks.
  - Increased heat tolerance of the ore drill/tank combo part.
  - Fuel switching config will not enable if Starlion Industries KSPI is installed, deferring to its settings.
