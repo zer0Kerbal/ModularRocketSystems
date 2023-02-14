@@ -3,6 +3,11 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.11.1 (2016-01-29) - Fixes.
+ - Corrected a typo with thermalMassModifier in the LAS Shroud.
+ - Corrected a typo with Agency mentality.
+ - Added a note in the "Inline Drill" description warning against using it as a root part.
+
 1.11 (2015-12-02) - Decoupler pass.
  - Increased heat tolerance of 2.5m stack decouplers by 200 degrees.
  - 2.5m "low profile" stack decoupler updates:
