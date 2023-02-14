@@ -3,6 +3,13 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.6.5 (2015-05-22) - Fixes & Tweaks
+ - Corrected the HotRockets config for the 0.625m jet engines.
+ - Explicitly defined fuelCrossFeed=False for radial decouplers.
+ - Added "ModuleCrossFeed" to small radial fuel tank, for Crossfeed Enabler.
+ - Increased heat conductivity of flat adapters (so they don't impede heat management).
+ - Corrected an issue with normals on mini radial fuel tank.
+
 1.6.4 (2015-05-14) - Tweaks
  - Added ground effects to several engines. 
  - Tweaked the LAS Shroud aerodynamics
