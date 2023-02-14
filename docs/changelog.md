@@ -148,7 +148,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.12.3.0-release `<Archival>`
 
-* KSP 1.1 Hotfi
+* KSP 1.1 Hotfix
 * 29 Mar 2016
 
 * Landing legs updated to not be 100% deadly. Suspension still doesn't work, legs are rigid for now.
@@ -192,9 +192,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.12.0.0-release `<Archival>`
 
-* Minor Update
 * 17 Mar 2016
+* Kerbal Space Program 1.0.5
 
+* Minor Update
 * Added ConnectedLivingSpace configs for slimline 2.5m docking port, and cargo bays.
 * Changed attachment rules for docking helpers, to allow surface-attaching them (and in turn turned off accepting surface attachment).
 * Reduced Guidance Nose-Cone's capabilities some more. Removed remaining SAS, weakened reaction wheel, lowered max temp.
