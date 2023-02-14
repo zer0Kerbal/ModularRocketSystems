@@ -467,9 +467,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.6.1.0-release `<Archival>`
 
-* Bays are back, baby
 * 29 Apr 2015
+* Kerbal Space Program 1.0.0
 
+* Bays are back, baby
 * Re-added cargo bays.
 
 * Issues
@@ -481,9 +482,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.6.0.0-release `<Archival>`
 
-* Fixes/Balancing for KSP 1.
 * 29 Apr 2015
+* Kerbal Space Program 1.0.0
 
+* Fixes/Balancing for KSP 1.
 * Many 1.0 balance changes. Including, but not limited to:
   * Quad-Nuke: ASL ISP reduced, Mass increased, no longer uses oxidizer.
   * All engines adjusted based on stock updates.
