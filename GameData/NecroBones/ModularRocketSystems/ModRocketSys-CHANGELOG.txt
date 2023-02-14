@@ -1,3 +1,11 @@
+1.4 (2014-12-15) - Fixes, And so on.
+ - No changes necessary for 0.90:
+    - Engine/FuelTank split is automatic
+    - Leaving SAS basic capability on the reaction wheel parts for now.
+ - Fixed the career-mode testing requirements on the fuel cell parts, so that contracts can be completed.
+ - Added HotRockets support for most engines.
+ - Moved Fuel Cells to the "Fuel Systems" tech node.
+
 1.3.2 (2014-12-03) - Error correction
  - Fixed a texture loading problem with the "three-quarter jumbo" fuel tank.
  - Moved size-0 and size-2 docking helpers later into tech tree, to the nodes with the appropriate docking ports.
