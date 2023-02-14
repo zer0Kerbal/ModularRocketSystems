@@ -3,6 +3,10 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.7.4 (2015-10-06) - Tweaks.
+ - Increased heat tolerance of the ore drill/tank combo part.
+ - Fuel switching config will not enable if Starlion Industries KSPI is installed, deferring to its settings.
+
 1.7.3 (2015-07-07) - Tweaks.
  - Added ConductionFactor/convectionflux settings for cargo bays.
  - Added support for Interstellar/FS Fuel Switch. 
