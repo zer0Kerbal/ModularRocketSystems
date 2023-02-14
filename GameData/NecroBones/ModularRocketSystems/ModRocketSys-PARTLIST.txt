@@ -1,5 +1,6 @@
 
-As a general rule, parts have their mass, cost, capacities, and so forth based on stock analogs. Where possible, they are direct ratios of stock parts.
+As a general rule, parts have their mass, cost, capacities, and so forth based on stock analogs. 
+Where possible, they are direct ratios of stock parts.
 
 [b]Parts inventory:[/b] (as of version 1.4.3, 2014-12-23)
 
