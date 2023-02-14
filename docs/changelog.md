@@ -325,9 +325,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.7.2.0-release `<Archival>`
 
-* KSP 1.0.3 balance update
 * 22 Jun 2015
+* Kerbal Space Program 1.0.3
 
+* KSP 1.0.3 balance update
 * Updated thermal settings for many parts.
 * Modified quad-nuke's heat generation to match stock.
 * Updated 0.625m jet engine performance to match stock (defined as 0.3x stock 1m jets).
@@ -340,9 +341,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.7.1.0-release `<Archival>`
 
-* Tweak
 * 19 Jun 2015
+* Kerbal Space Program 1.0.2
 
+* Tweak
 * Reduced texture resolution of 2.5m "low profile" decoupler by half (75% reduction in the texture's memory requirement).
 * Increased the suspension strength of landing legs.
 * Tweaked thermal properties of landing legs.
@@ -355,9 +357,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.7.0.0-release `<Archival>`
 
-* Cargo-Bay overhaul + Tweaks and fixe
 * 11 Jun 2015
+* Kerbal Space Program 1.0.2
 
+* Cargo-Bay overhaul + Tweaks and fixe
 * Updated Deadly Reentry config with more current data.
 * Tweaked some settings on cargo bays.
 * Added VAB/SPH transparency to cargo bays.
@@ -367,14 +370,16 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Issues
   * updates #7 - Archival Releases
   * closes #42 - 1.7.0.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
 ## Version 1.6.6.0-release `<Archival>`
 
-* More balancin
 * 28 May 2015
+* Kerbal Space Program 1.0.2
 
+* More balancin
 * N nuclear engine.  Nuke to 12, to match 4x stock LV Increased mass of Quad
 * Added "inline" (stackable) drill with internal storage.
 * Switched flag/agency images back to PNG format so they'll work again.
@@ -382,14 +387,16 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Issues
   * updates #7 - Archival Releases
   * closes #41 - 1.6.6.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
 ## Version 1.6.5.0-release `<Archival>`
 
-* Fixes & Tweak
 * 22 May 2015
+* Kerbal Space Program 1.0.2
 
+* Fixes & Tweak
 * Corrected the HotRockets config for the 0.625m jet engines.
 * Explicitly defined fuelCrossFeed=False for radial decouplers.
 * Added "ModuleCrossFeed" to small radial fuel tank, for Crossfeed Enabler.
@@ -399,14 +406,16 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Issues
   * updates #7 - Archival Releases
   * closes #40 - 1.6.5.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
 ## Version 1.6.4.0-release `<Archival>`
 
-* Tweak
 * 14 May 2015
+* Kerbal Space Program 1.0.2
 
+* Tweak
 * Added ground effects to several engines.
 * Tweaked the LAS Shroud aerodynamics
 * over in the VAB/SPH. through on mouse LAS Shroud will now be see
@@ -422,14 +431,16 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Issues
   * updates #7 - Archival Releases
   * closes #39 - 1.6.4.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
 ## Version 1.6.3.0-release `<Archival>`
 
-* Fixes & 1.0.2 tweak
 * 08 May 2015
+* Kerbal Space Program 1.0.2
 
+* Fixes & 1.0.2 tweak
 * Fixed a configuration typo for the 2.5m flat adapter.
 * Fixed a configuration typo for the long landing leg.
 * Reversed the attachment node priority order for extremely thin parts (docking helpers, decouplers, reaction wheels, flat adapters) so that they attach more easily.
@@ -440,6 +451,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Issues
   * updates #7 - Archival Releases
   * closes #38 - 1.6.3.0
+  * updates #89 - [BUG] Archival Releases
 
 ---
 
