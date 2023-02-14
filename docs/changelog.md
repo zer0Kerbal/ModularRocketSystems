@@ -177,9 +177,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.12.1.0-release `<Archival>`
 
-* Nose cone hotfix
 * 17 Mar 2016
+* Kerbal Space Program 1.0.5
 
+* Nose cone hotfix
 * Re-added basic stability control to the Guidance Nose Cone.
 * Moved Guidance Nose Cone to "Engineering 101" tech node, so that it at least has to be unlocked before use.
 
