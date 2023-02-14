@@ -1,3 +1,7 @@
+1.4.4 (2014-12-29) - More 0.90 adjustment
+ - Removed SAS from Reaction Wheel parts, since it no longer works without being on a command pod/core.
+ - Added advanced form of radial probe core, later in tech tree with full SAS capability. 
+
 1.4.3 (2014-12-22) - More 0.90 adjustment
  - Reduced reaction wheel strength in Guidance Nose Cone for career balancing.
  - Reverted removal (re-added) the basic SAS capability in the Guidance Nose Cone.
