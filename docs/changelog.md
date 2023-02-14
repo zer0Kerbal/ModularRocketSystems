@@ -520,9 +520,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.5.0.0-release `<Archival>`
 
-* And so on, etc
 * 16 Jan 2015
+* Kerbal Space Program 0.90.0
 
+* And so on, etc
 * Corrected the name of the 0.625m basic air intake (claimed to be 1.25m).
 * Increased LAS tower's fuel, thrust, and burn time.
 * Added support for Connected Living Space (making the docking helpers and flat adapters passable).
@@ -538,9 +539,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.4.4.0-release `<Archival>`
 
-* More 0.90 adjustments
 * 29 Dec 2014
+* Kerbal Space Program 0.90.0
 
+* More 0.90 adjustments
 * Removed SAS from Reaction Wheel parts, since it no longer works without being on a command pod/core.
 * Added advanced form of radial probe core, later in tech tree with full SAS capability.
 
