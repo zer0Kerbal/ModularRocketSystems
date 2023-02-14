@@ -1,3 +1,10 @@
+1.5 (2015-01-16) - And so on, etc.
+ - Corrected the name of the 0.625m basic air intake (claimed to be 1.25m).
+ - Increased LAS tower's fuel, thrust, and burn time. 
+ - Added support for Connected Living Space (making the docking helpers and flat adapters passable).
+ - Renamed the cargo bays as "payload bays" to help FAR/NEAR identify them as aerodynamic fairings.
+ - Added a set of long landing legs.
+
 1.4.4 (2014-12-29) - More 0.90 adjustment
  - Removed SAS from Reaction Wheel parts, since it no longer works without being on a command pod/core.
  - Added advanced form of radial probe core, later in tech tree with full SAS capability. 
