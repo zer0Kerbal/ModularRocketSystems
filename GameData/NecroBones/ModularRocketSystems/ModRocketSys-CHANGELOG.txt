@@ -3,6 +3,9 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.12.2 (2016-03-20) - Hotfix.
+ - Rotated the RCS blocks back to their original orientation, so as to not break previously created vessels.
+
 1.12.1 (2016-03-17) - Nose cone hotfix.
  - Re-added basic stability control to the Guidance Nose Cone.
  - Moved Guidance Nose Cone to "Engineering 101" tech node, so that it at least has to be unlocked before use.

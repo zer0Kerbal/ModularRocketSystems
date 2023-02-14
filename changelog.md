@@ -152,9 +152,10 @@
 
 ## Version 1.12.2.0-release `<Archival>`
 
-* Hotfix
 * 20 Mar 2016
+* Kerbal Space Program 1.0.5
 
+* Hotfix
 * Rotated the RCS blocks back to their original orientation, so as to not break previously created vessels.
 
 * Issues
