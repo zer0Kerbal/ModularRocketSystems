@@ -3,6 +3,10 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.12.3 (2016-03-29) - KSP 1.1 Hotfix
+ - Landing legs updated to not be 100% deadly. Suspension still doesn't work, legs are rigid for now.
+ - Added tags for most parts.
+
 1.12.2 (2016-03-20) - Hotfix.
  - Rotated the RCS blocks back to their original orientation, so as to not break previously created vessels.
 
