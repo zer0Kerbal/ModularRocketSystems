@@ -76,6 +76,7 @@ Where possible, they are direct ratios of stock parts.
 [*]RCS 5-way Block
 [*]RCS "Corner" Diagonal Block
 [*]Long Landing Legs
+[*]1.25m stackable Fuel Cell
 [/list]
 
 
