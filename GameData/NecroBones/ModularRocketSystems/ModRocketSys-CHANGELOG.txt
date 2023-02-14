@@ -3,7 +3,15 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
-1.6.2 (2015-05-01) - More 1.0 tweaks + 1.0.1 compatability
+1.6.3 (2015-05-08) - Fixes & 1.0.2 tweaks
+ - Fixed a configuration typo for the 2.5m flat adapter. 
+ - Fixed a configuration typo for the long landing leg. 
+ - Reversed the attachment node priority order for extremely thin parts (docking helpers, decouplers, reaction wheels, flat adapters) so that they attach more easily.
+ - Updated "Community Tech Tree" support for compatibility with CTT's new design.
+ - Minor tweaks to the "drag cubes" for the cargo bays.
+ - Reduced mass of 2.5m dome nose cone.
+
+1.6.2 (2015-05-01) - More 1.0 tweaks + 1.0.1 compatibility
  - Adjusted max-temps on engines to be more stock-like.
  - Fixed the "Hound" engine's description to no longer say "Terrier".
  - Adjusted the Guidance Nose Cone to have slightly less torque, and increased electrical usage.
