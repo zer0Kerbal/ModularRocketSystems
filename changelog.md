@@ -286,9 +286,10 @@
 
 ## Version 1.8.0.0-release `<Archival>`
 
-* Tweaks and RTG
 * 08 Oct 2015
+* Kerbal Space Program 1.0.4
 
+* Tweaks and RTG
 * Corrected a typo in the menu category for the slimline 2.5m decoupler.
 * 2.5m "three quarter" tank moved up to the Advanced Fuel Systems tech node.
 * 2.5m->3.75m adapter tank moved up to Large Voluma Containment tech node.
