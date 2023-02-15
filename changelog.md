@@ -17,6 +17,13 @@
   * for Kerbal Space Program 1.4.1
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
+### Summary 1.13.2.1
+
+* Update TweakScale patch
+  * add :FOR
+  * use standard patch from Lisias
+  * make patch stay in its lane, no patching other addons! Bad patch!
+
 * Issues
   * closes #142 - Modular Rocket Systems (MRS) 1.13.2.1-hotfix `<Lisias TweakScale'R'Us>` edition
   * closes #140 - [BUG] TweakScale patch out of control
