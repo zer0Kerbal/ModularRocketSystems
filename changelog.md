@@ -14,6 +14,7 @@
 
 * Tweaks
 * 12 Mar 2018
+* Kerbal Space Program 1.4.1
 
 * Added some missing data to the Tweakscale config.
 
@@ -28,6 +29,7 @@
 
 * Fixes
 * 21 Oct 2016
+* Kerbal Space Program 1.2.0
 
 * RCS sounds/effects added.
 * Radial battery moved to Electrical menu tab.
@@ -41,9 +43,10 @@
 
 ## Version 1.13.0.0-release `<Archival>`
 
-* KSP 1.2 Compatibility
 * 11 Oct 2016
+* Kerbal Space Program 1.2.0
 
+* KSP 1.2 Compatibility
 * Added MM "NEEDS" conditionals to RemoteTech modules in probe cores.
 * Updated categories for many parts.
 * Added KerbNet/transmitter modules to probe cores.
@@ -58,9 +61,10 @@
 
 ## Version 1.12.8.0-release `<Archival>`
 
-* Tweaks
 * 12 Jul 2016
+* Kerbal Space Program 1.1.3
 
+* Tweaks
 * Guidance Nose Cone balance tweaks:
   * Cost increased. Research cost increased (was erroneously left at "0").
   * Reaction Wheel torque and electrical usage reduced by 25%.
@@ -79,7 +83,7 @@
 ## Version 1.12.7.0-release `<Archival>`
 
 * 20 May 2016
-* Kerbal Space Program 1.1.1
+* Kerbal Space Program 1.1.2
 
 * Tweaks
 * Updated the description for the inline RTG.
