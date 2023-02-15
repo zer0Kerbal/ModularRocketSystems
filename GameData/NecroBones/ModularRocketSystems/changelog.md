@@ -78,9 +78,10 @@
 
 ## Version 1.12.7.0-release `<Archival>`
 
-* Tweaks
 * 20 May 2016
+* Kerbal Space Program 1.1.1
 
+* Tweaks
 * Updated the description for the inline RTG.
 * Fixed a copy/paste error in the "corner" RCS configs.
 
@@ -93,9 +94,10 @@
 
 ## Version 1.12.6.0-release `<Archival>`
 
-* Transparency fix
 * 22 Apr 2016
+* Kerbal Space Program 1.1.0
 
+* Transparency fix
 * Fixed the "always transparent" problem in the VAB for cargo bays in 1.1.
 
 * Issues
