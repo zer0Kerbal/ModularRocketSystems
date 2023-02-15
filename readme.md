@@ -6,7 +6,7 @@ updated:
 TEMPLATE: readme.md v1.7.0.2
 created: 17 Jul 2017
 updated: 10 Feb 2023
-stuff
+
 this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 [![Modular Rocket Systems (MRS)][MOD:shd]][forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
