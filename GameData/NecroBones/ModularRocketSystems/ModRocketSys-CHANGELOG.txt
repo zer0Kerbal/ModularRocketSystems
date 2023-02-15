@@ -3,6 +3,10 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.12.7 (2016-05-20) - Tweaks.
+ - Updated the description for the inline RTG.
+ - Fixed a copy/paste error in the "corner" RCS configs.
+
 1.12.6 (2016-04-22) - Transparency fix.
  - Fixed the "always transparent" problem in the VAB for cargo bays in 1.1.
 
