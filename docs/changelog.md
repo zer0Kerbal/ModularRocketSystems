@@ -38,10 +38,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.13.1.0-release `<Archival>`
 
-* Fixes
 * 21 Oct 2016
 * Kerbal Space Program 1.2.0
 
+* Fixes
 * RCS sounds/effects added.
 * Radial battery moved to Electrical menu tab.
 
