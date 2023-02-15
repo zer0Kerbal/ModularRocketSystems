@@ -37,6 +37,6 @@ https://kerbalstuff.com/mod/148/Modular%20Rocket%20Systems%20-%20Parts%20Pack
 Curse.com (download):
 http://kerbal.curseforge.com/ksp-mods/224105-modular-rocket-systems-stock-alike-parts-mod
 
-This parts pack is being shared under the CC-NC-SA license:
+This parts pack is being shared under the CC-BY-NC-SA license:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
 
