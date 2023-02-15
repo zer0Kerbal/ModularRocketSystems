@@ -107,9 +107,10 @@
 
 ## Version 1.12.5.0-release `<Archival>`
 
-* Tweaks
 * 17 Apr 2016
+* Kerbal Space Program 1.1.0
 
+* Tweaks
 * Moved rocket cargo bays to Advanced Construction and Specialized Construction tech nodes.
 * Tweaked leg settings.
 * Moved leg wheel collider to allow for more accurate aerodynamic occlusion.

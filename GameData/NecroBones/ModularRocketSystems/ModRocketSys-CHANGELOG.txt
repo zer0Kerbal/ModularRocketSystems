@@ -3,6 +3,11 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.12.5 (2016-04-17) - Tweaks.
+ - Moved rocket cargo bays to Advanced Construction and Specialized Construction tech nodes.
+ - Tweaked leg settings.
+ - Moved leg wheel collider to allow for more accurate aerodynamic occlusion.
+
 1.12.4 (2016-03-31) - KSP 1.1 Hotfix
  - Landing legs have suspension and working feet again.
 
