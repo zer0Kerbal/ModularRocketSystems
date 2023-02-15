@@ -34,7 +34,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * add :FOR
   * use standard patch from Lisias
   * make patch stay in its lane, no patching other addons! Bad patch!
-  * Thank you to [Lisias](Lisias](https://github.com/Lisias)
+  * Thank you to [Lisias](https://github.com/Lisias)
 
 * Issues
   * closes #142 - Modular Rocket Systems (MRS) 1.13.2.1-hotfix `<Lisias TweakScale'R'Us>` edition
