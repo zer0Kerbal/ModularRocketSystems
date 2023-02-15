@@ -3,6 +3,15 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.12.8 (2016-07-12) - Tweaks.
+ - Guidance Nose Cone balance tweaks:
+    - Cost increased. Research cost increased (was erroneously left at "0").
+    - Reaction Wheel torque and electrical usage reduced by 25%.
+    - Moved to Flight Control tech node.
+ - Adjusted some tags, including adding nickname tags for engines.
+ - Added NearFutureElectrical support for RTG.
+ - Moved ModuleManager patches to Patches folder.
+
 1.12.7 (2016-05-20) - Tweaks.
  - Updated the description for the inline RTG.
  - Fixed a copy/paste error in the "corner" RCS configs.
