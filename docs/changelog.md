@@ -134,9 +134,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.12.4.0-release `<Archival>`
 
-* KSP 1.1 Hotfi
 * 31 Mar 2016
+* Kerbal Space Program 1.1.0
 
+* KSP 1.1 Hotfix
 * Landing legs have suspension and working feet again.
 
 * Issues
