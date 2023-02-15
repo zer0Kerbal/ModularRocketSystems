@@ -10,11 +10,11 @@
 | spacedock  | (https://spacedock.info/mod/86)                                   |
 | ckan       | ModularRocketSystems                                              |
 
-## Version 1.13.2.1-hotfix - `<Archival>` edition
+## Version 1.13.2.1-hotfix - `<Lisias TweakScale'R'Us>` edition
 
 * Released
   * 14 Feb 2023
-  * for Kerbal Space Program 1.4.1
+  * for Kerbal Space Program 1.4.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 ### Summary 1.13.2.1
@@ -23,6 +23,7 @@
   * add :FOR
   * use standard patch from Lisias
   * make patch stay in its lane, no patching other addons! Bad patch!
+  * Thank you to [Lisias](Lisias](https://github.com/Lisias)
 
 * Issues
   * closes #142 - Modular Rocket Systems (MRS) 1.13.2.1-hotfix `<Lisias TweakScale'R'Us>` edition
