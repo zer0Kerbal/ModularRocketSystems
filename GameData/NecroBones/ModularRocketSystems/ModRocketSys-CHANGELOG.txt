@@ -3,6 +3,12 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.13 (2016-10-11) - KSP 1.2 Compatibility.
+ - Added MM "NEEDS" conditionals to RemoteTech modules in probe cores.
+ - Updated categories for many parts.
+ - Added KerbNet/transmitter modules to probe cores.
+ - Landing Leg updated with 1.2 variables and sounds.
+
 1.12.8 (2016-07-12) - Tweaks.
  - Guidance Nose Cone balance tweaks:
     - Cost increased. Research cost increased (was erroneously left at "0").
