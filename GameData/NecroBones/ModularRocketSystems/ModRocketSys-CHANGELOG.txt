@@ -1,0 +1,314 @@
+Modular Rocket Systems  -and-  Modular Rocket Systems Lite
+
+These are considered to be the same mod, just one with a smaller selection of the
+same parts than the other, so they share the same README and revision history.
+
+1.13.1 (2016-10-21) - Fixes.
+ - RCS sounds/effects added.
+ - Radial battery movied to Electrical menu tab.
+
+1.13 (2016-10-11) - KSP 1.2 Compatibility.
+ - Added MM "NEEDS" conditionals to RemoteTech modules in probe cores.
+ - Updated categories for many parts.
+ - Added KerbNet/transmitter modules to probe cores.
+ - Landing Leg updated with 1.2 variables and sounds.
+
+1.12.8 (2016-07-12) - Tweaks.
+ - Guidance Nose Cone balance tweaks:
+    - Cost increased. Research cost increased (was erroneously left at "0").
+    - Reaction Wheel torque and electrical usage reduced by 25%.
+    - Moved to Flight Control tech node.
+ - Adjusted some tags, including adding nickname tags for engines.
+ - Added NearFutureElectrical support for RTG.
+ - Moved ModuleManager patches to Patches folder.
+
+1.12.7 (2016-05-20) - Tweaks.
+ - Updated the description for the inline RTG.
+ - Fixed a copy/paste error in the "corner" RCS configs.
+
+1.12.6 (2016-04-22) - Transparency fix.
+ - Fixed the "always transparent" problem in the VAB for cargo bays in 1.1.
+
+1.12.5 (2016-04-17) - Tweaks.
+ - Moved rocket cargo bays to Advanced Construction and Specialized Construction tech nodes.
+ - Tweaked leg settings.
+ - Moved leg wheel collider to allow for more accurate aerodynamic occlusion.
+
+1.12.4 (2016-03-31) - KSP 1.1 Hotfix
+ - Landing legs have suspension and working feet again.
+
+1.12.3 (2016-03-29) - KSP 1.1 Hotfix
+ - Landing legs updated to not be 100% deadly. Suspension still doesn't work, legs are rigid for now.
+ - Added tags for most parts.
+
+1.12.2 (2016-03-20) - Hotfix.
+ - Rotated the RCS blocks back to their original orientation, so as to not break previously created vessels.
+
+1.12.1 (2016-03-17) - Nose cone hotfix.
+ - Re-added basic stability control to the Guidance Nose Cone.
+ - Moved Guidance Nose Cone to "Engineering 101" tech node, so that it at least has to be unlocked before use.
+
+1.12 (2016-03-17) - Minor Update.
+ - Added ConnectedLivingSpace configs for slimline 2.5m docking port, and cargo bays.
+ - Changed attachment rules for docking helpers, to allow surface-attaching them (and in turn turned off accepting surface attachment).
+ - Reduced Guidance Nose-Cone's capabilities some more. Removed remaining SAS, weakened reaction wheel, lowered max temp.
+ - Redesigned RCS blocks to look more stock-alike, and tweaked their price and mass.
+ - Added RCS blocks to the "Lite" pack.
+
+1.11.1 (2016-01-29) - Fixes.
+ - Corrected a typo with thermalMassModifier in the LAS Shroud.
+ - Corrected a typo with Agency mentality.
+ - Added a note in the "Inline Drill" description warning against using it as a root part.
+
+1.11 (2015-12-02) - Decoupler pass.
+ - Increased heat tolerance of 2.5m stack decouplers by 200 degrees.
+ - 2.5m "low profile" stack decoupler updates:
+    - Added internal "sepratron" solid motors as optional separation aids (remove propellant to not use).
+    - Increased cost and base mass (to balance this against stock decoupler).
+    - Added drag-cube to match stock decoupler. 
+
+1.10.1 (2015-11-13) - Tweaks/Fixes, mainline MRS only.
+ - 0.625m air intakes have intake speed restored to match their bigger brothers. 
+ - Corrected a variety of effects+gimbal problems with the 3.75m quad cluster engine, introduced in 1.10.
+
+1.10 (2015-11-11) - KSP 1.0.5 update.
+ - Adjusted inner attachment nodes on cargo bays to be offset inward like new stock settings on cargo bays.
+ - Cargo bays now have settings for door deployment limits.
+ - Flingatrons updated to use new contract constraints, and exhaust damage reducer, and other thermal settings.
+ - RTG updated to use new passive core temperature system. 
+ - Inline Drill/Tank combo updated to use the stock drill's new settings.
+ - Fuel crossfeed toggle added to aerodynamic pylons.
+ - Engines (except quad-nuke) updated to use FXModuleAnimateThrottle. 
+ - Engines, decouplers/separators, etc updated to use new stock-alike thermal settings and contract constraints.
+ - Jet Engines and Air Intakes rebalanced.
+
+1.9 (2015-11-07) - N7-Day Update.
+ - Added support for HullCameraVDS to the radial probe core panels.
+ - Adjusted MM patch filenames to be more consistent.
+ - Added docking lights to the docking helpers.
+
+1.8 (2015-10-08) - Tweaks and RTG.
+ - Corrected a typo in the menu category for the slimline 2.5m decoupler.
+ - 2.5m "three quarter" tank moved up to the Advanced Fuel Systems tech node.
+ - 2.5m->3.75m adapter tank moved up to Large Voluma Containment tech node.
+ - Corrected an issue with Flag Decals on the cargo bays not displaying correctly in the VAB/SPH editors.
+ - Added a 6.25x RTG unit.
+
+1.7.4 (2015-10-06) - Tweaks.
+ - Increased heat tolerance of the ore drill/tank combo part.
+ - Fuel switching config will not enable if Starlion Industries KSPI is installed, deferring to its settings.
+
+1.7.3 (2015-07-07) - Tweaks.
+ - Added ConductionFactor/convectionflux settings for cargo bays.
+ - Added support for Interstellar/FS Fuel Switch. 
+
+1.7.2 (2015-06-22) - KSP 1.0.3 balance updates
+ - Updated thermal settings for many parts.
+ - Modified quad-nuke's heat generation to match stock.
+ - Updated 0.625m jet engine performance to match stock (defined as 0.3x stock 1m jets). 
+
+1.7.1 (2015-06-19) - Tweaks
+ - Reduced texture resolution of 2.5m "low profile" decoupler by half (75% reduction in the texture's memory requirement).
+ - Increased the suspension strength of landing legs.
+ - Tweaked thermal properties of landing legs.
+
+1.7 (2015-06-11) - Cargo-Bay overhaul + Tweaks and fixes
+ - Updated Deadly Reentry config with more current data.
+ - Tweaked some settings on cargo bays.
+ - Added VAB/SPH transparency to cargo bays.
+ - Added "Animated Decouplers" support for LAS Shroud (to make it shield properly in stock aero, AD needs to be installed).
+ - Overhauled the cargobay doors, so they don't get in the way as much.
+
+1.6.6 (2015-05-28) - More balancing
+ - Increased mass of Quad-Nuke to 12, to match 4x stock LV-N nuclear engine. 
+ - Added "inline" (stackable) drill with internal storage.
+ - Switched flag/agency images back to PNG format so they'll work again.
+
+1.6.5 (2015-05-22) - Fixes & Tweaks
+ - Corrected the HotRockets config for the 0.625m jet engines.
+ - Explicitly defined fuelCrossFeed=False for radial decouplers.
+ - Added "ModuleCrossFeed" to small radial fuel tank, for Crossfeed Enabler.
+ - Increased heat conductivity of flat adapters (so they don't impede heat management).
+ - Corrected an issue with normals on mini radial fuel tank.
+
+1.6.4 (2015-05-14) - Tweaks
+ - Added ground effects to several engines. 
+ - Tweaked the LAS Shroud aerodynamics
+ - LAS Shroud will now be see-through on mouse-over in the VAB/SPH.
+ - Corrected TweakScale settings for "Hound" Engine.
+ - Re-Added a reworked stackable inline 1.25m fuel cell. 
+ - Re-balanced the size-0 (0.625m) jet engines & intakes. 
+    - 20% more thrust (30% of stock 1.25m counterparts), but also more mass.
+    - 20% more air through intakes, slight increase in mass.
+    - Adjusted sound/visual effects to correspond to stock changes. 
+ - Air intakes no longer qualify as contract test subjects.
+ - Corrected a problem with the normals on the 0.625m fuel tanks.
+
+1.6.3 (2015-05-08) - Fixes & 1.0.2 tweaks
+ - Fixed a configuration typo for the 2.5m flat adapter. 
+ - Fixed a configuration typo for the long landing leg. 
+ - Reversed the attachment node priority order for extremely thin parts (docking helpers, decouplers, reaction wheels, flat adapters) so that they attach more easily.
+ - Updated "Community Tech Tree" support for compatibility with CTT's new design.
+ - Minor tweaks to the "drag cubes" for the cargo bays.
+ - Reduced mass of 2.5m dome nose cone.
+
+1.6.2 (2015-05-01) - More 1.0 tweaks + 1.0.1 compatibility
+ - Adjusted max-temps on engines to be more stock-like.
+ - Fixed the "Hound" engine's description to no longer say "Terrier".
+ - Adjusted the Guidance Nose Cone to have slightly less torque, and increased electrical usage.
+ - Improved gimbal on several engines.
+ - Adjusted heat generation on rocket engines to correspond to KSP 1.0.1 changes.
+ - Adjusted all engine thrust numbers to correspond to KSP 1.0.1 changes.
+ - Fixed the attachment node on the 1.25m "rounded" nose cone.
+ - Added "drag box" settings for cargo bays.
+ - Converted textures to DDS format.
+
+1.6.1 (2015-04-29) - Bays are back, baby.
+ - Re-added cargo bays.
+
+1.6 (2015-04-29) - Fixes/Balancing for KSP 1.0
+ - Many 1.0 balance changes. Including, but not limited to:
+    - Quad-Nuke: ASL ISP reduced, Mass increased, no longer uses oxidizer.
+    - All engines adjusted based on stock updates.
+    - Many parts had costs, masses, max temps, tech node assignments, etc adjusted.
+    - Adjusted bottom attchment nodes to correspond to KSP 1.0 orientation.
+ - Cargo Bays (hopefully) temporarily removed, to be reworked for 1.0.
+ - Removed "radial booster tank".
+ - Removed fuel cells.
+ - Renamed the "Terrier" engine: "Hound"
+
+1.5.1 (2015-02-10) - Minor adjustments
+ - Released "Lite" version of mod.
+ - Corrected a badly-positioned seam on the 2.5m->1.25m adapter cone.
+ - Slightly improved contrast in the long landing-leg texture.
+ - Corrected typos that prevented the LAS tower and Flingatron from showing in the manufacturer tab.
+
+1.5 (2015-01-16) - And so on, etc.
+ - Corrected the name of the 0.625m basic air intake (claimed to be 1.25m).
+ - Increased LAS tower's fuel, thrust, and burn time. 
+ - Added support for Connected Living Space (making the docking helpers and flat adapters passable).
+ - Renamed the cargo bays as "payload bays" to help FAR/NEAR identify them as aerodynamic fairings.
+ - Added a set of long landing legs.
+
+1.4.4 (2014-12-29) - More 0.90 adjustment
+ - Removed SAS from Reaction Wheel parts, since it no longer works without being on a command pod/core.
+ - Added advanced form of radial probe core, later in tech tree with full SAS capability. 
+
+1.4.3 (2014-12-22) - More 0.90 adjustment
+ - Reduced reaction wheel strength in Guidance Nose Cone for career balancing.
+ - Reverted removal (re-added) the basic SAS capability in the Guidance Nose Cone.
+ - Added basic Deadly Reentry support for the nose cones and guidance cone.
+
+1.4.2 (2014-12-20) - More 0.90 adjustment
+ - Removed SAS from the guidance nose-cone and radial probe-core. Control only, early in the tech tree.
+ - Renamed most parts, for improved name sorting in the new menus.
+
+1.4.1 (2014-12-16) - Minor fix
+ - Fixed manufacturer icon in VAB/SPH manufacturer-sort.
+
+1.4 (2014-12-15) - Fixes, And so on.
+ - No changes necessary for 0.90:
+    - Engine/FuelTank split is automatic
+    - Leaving SAS basic capability on the reaction wheel parts for now.
+ - Fixed the career-mode testing requirements on the fuel cell parts, so that contracts can be completed.
+ - Added HotRockets support for most engines.
+ - Moved Fuel Cells to the "Fuel Systems" tech node.
+
+1.3.2 (2014-12-03) - Error correction
+ - Fixed a texture loading problem with the "three-quarter jumbo" fuel tank.
+ - Moved size-0 and size-2 docking helpers later into tech tree, to the nodes with the appropriate docking ports.
+
+1.3.1 (2014-11-25) - TweakScale fixes
+ - Moved all TweakScale configs to a file called "MRS_TweakScale.cfg", and out of the part configs.
+ - Change all size-adapter pieces to use the preconfigured "adapter" TweakScale types.
+
+1.3 (2014-11-24) - Minor Update
+ - Added "Community Tech Tree" support, by moving the quad-nuke to "Improved Nuclear Propulsion" node, if CTT is also installed.
+ - Moved "Flingatron" later in tech tree, to Heavy Rocketry.
+ - Corrected the "Flingatron" exhaust position
+ - Removed TweakScale size restrictions from adapter pieces, and added support for those that needed it.
+    - (reverted in 1.3.1)
+
+1.2 (2014-11-13) - Minor Tweaks
+ - Moved the "Terrier" engine to the "Very Heavy Rocketry" tech node, where the rest of the 3.75m diameter parts are.
+ - Tweaked the 3.75m Quad-engine
+    - Reduced the external glow on the engine bells
+    - Added additional framework on the engine bells
+    - Tweaked the red coloring on the turbopumps
+
+1.1 (2014-11-07) - Parts update
+ - Flag decals on cargo bay and 2.5m fuel tank should no longer cast shadows on themselves. 
+ - Corrected the cargo bay doors to be non-attachable. Somehow this setting got lost before release.
+ - Moved the "radial booster tank" to an earlier node in the tech tree.
+ - Added Engine-Ignitor support to the Size-3 (3.75m) Quad Engine. 
+ - Added Size-3 (3.75m) Poodle-like "Terrier" engine.
+ - Added Size-1 (1.25m) rocket cargo bay.
+ - Added radially-attached probe core.
+
+1.0 (2014-10-30) - Full release!?
+ - No complaints or bug reports for quite a while. Let's call it 1.0.
+ - Added LAS (Launch Abort System) consisting of LAS tower, and pod-shroud.
+ - Added two lengths of 2.5m rocket cargo bays. 
+ - Added 3.75m quad-engine
+
+0.7 (2014-10-07) - Beta Release
+ - Slimmed the radial mini-tank (particularly the framework) just a hair, to help with fitting inside fairings and cargo bays.
+ - Added support for the "Engine Ignitor" mod. Settings added to small LFO engine, and quad-nuke.
+ - Added shading to the 1.25m Xenon sphere tank.
+ - Tweaked Size-0 SAS module to bring it in line with 0.25
+ - Moved Xenon-tanks to Propulsion tab, to match 0.25
+ - Reduced mass of 1.25m (size-1) nose cones to match 0.25
+ - Reduced mass of 0.625m (size-0) nose cone to match the size-1 cones (beating out 0.25)
+
+0.6 (2014-09-24) - Beta Release
+ - Fixed 6x symmetry under the 3.75m to 7-way 1.25m adapter
+ - Adjusted collision mesh on Aerodynamic Pylons to support vertical-snap in Editor Extensions
+ - Enabled Remote-Tech support to the Guidance Nose Cone.
+ - Added radial 600-unit battery
+ - increased size of radial fuel-cell
+ - Added AVC (Add-on Version Checker) support
+	See: http://forum.kerbalspaceprogram.com/threads/79745
+
+0.5 (2014-09-19) - Beta Release
+ - Cosmetic adjustment: Quad-Nuclear engine:
+    - Lightened the grey color of the reactors
+    - Increased engine bell's size by 9%.
+ - Cosmetic adjustment: 3.75m monopropellant tank: added white stripes 
+ - Cosmetic adjustment: Xenon sphere tanks: added nodes to support struts
+ - Cosmetic adjustment: 0.625m jet-fuel tanks: Changed around stripes
+ - Reduced texture resolution of matching 2.5m and 1.25m nose cones to be more appropriate
+ - Added "three-quarter jumbo" fuel tank, with flag decals
+ - Added size-2 ASAS module (20% higher torque/mass/cost than stock unit)
+ - Added three sizes of aerodynamic structural pylons
+ - Added 0.625m (size-0) nose cone
+ - Added 0.625m basic jet engine + intake (as a matching set to the turbojets from last update)
+ - Added 1.25m "Guidance Nose Cone" probe core + reaction wheels + small battery.
+ - Added Fuel-Cell electric generators: Radial, 1.25m.
+
+0.4 (2014-09-15) - Beta Release
+ - Added TweakScale support to most parts
+ - Added engine glow to the 0.625m tiny LFO engine.
+ - Adjusted surface attachment for Xenon Sphere tanks so they don't "float" off the surface
+ - Added "large" (1.25m) xenon sphere tanks
+ - Added 2.5m to 1.25m cone adapter fuel tank
+ - Added 2.5m "4x LV-N" quad-nuclear engine.
+ - Added 1.25m and 0.625m air intakes
+ - Added 0.625m Turbojet.
+ - Added two lengths of 0.625m jet fuel tanks
+
+0.3 (2014-09-11) - Beta release.
+ - Added 2.5m to 1.25m hollow cone adapter
+ - Added "Flingatron" (3x Sepratron)
+ - Added pressurized sphere xenon container
+ - Added 0.625m probe fuel canister
+ - Added 1.25m to 4x 0.625m quad adapter
+ - Added 1.25m to 5x 0.625m adapter
+ - Added 0.625m Stackable Monopropellant engine.
+ - Added 0.625m Efficient LFO engine.
+ - Reshaped the fairings on the 2.5m to 5x 1.25m adapter
+
+0.2 (2014-09-06) - Initial Public Beta release. 
+
+0.1 - Alpha test version. 
+
+0.0 - Internal and external Alpha test version.
