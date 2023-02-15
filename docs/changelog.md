@@ -23,16 +23,16 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ## Version 1.13.2.0-release `<Archival>`
 
-* Tweaks
 * 12 Mar 2018
 * Kerbal Space Program 1.4.1
 
+* Tweaks
 * Added some missing data to the Tweakscale config.
 
 * Issues
   * closes #7 - Archival Releases
   * closes #64 - 1.13.2.0
-  * updates #89 - [BUG] Archival Releases
+  * closes #89 - [BUG] Archival Releases
 
 ---
 

@@ -1,0 +1,608 @@
+SCALETYPE
+{
+    name = adapter_3_1
+    freeScale = false
+    scaleFactors = 3.75,          7.5
+    scaleNames =   3.75m to 1.25m, 7.5m to 2.5m
+    defaultScale = 3.75
+}
+@PART[NBfuelCell1m] // 1.25m Fuel Cell cluster
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 1.25
+	}
+}
+@PART[NBcargoBay1m1] // 1.25m Cargo Bay
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 1.25
+	}
+}
+@PART[NBcargoBay2m0] // 2.5m short Cargo Bay
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 2.5
+	}
+}
+@PART[NBcargoBay2m1] // 2.5m long Cargo Bay
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 2.5
+	}
+}
+@PART[NBbigASAS] // 3.75m SAS
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 3.75
+	}
+}
+@PART[NBprobeCone1m] // Probe-core nose-cone
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 1.25
+	}
+}
+@PART[SYdecouplerRadial1] // Radial Decoupler, regular
+{
+	MODULE
+	{
+		name = TweakScale
+		type = surface
+	}
+}
+@PART[NBprobeRadial] // Radial probe-core
+{
+	MODULE
+	{
+		name = TweakScale
+		type = surface
+	}
+}
+@PART[NBprobeRadial2] // Radial probe-core, Adv
+{
+	MODULE
+	{
+		name = TweakScale
+		type = surface
+	}
+}
+@PART[NBSAS2m] // 2.5m ASAS
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 2.5
+	}
+}
+@PART[NBtinySAS] // 0.625m ASAS
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 0.625
+	}
+}
+@PART[NB0mLFOengine1] // 0.625m LFO engine
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 0.625
+	}
+}
+@PART[NB0mMonoEngine1] // 0.625m monopropellant engine
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 0.625
+	}
+}
+@PART[NB2mNuclearEngine] // 2.5m nuclear engine
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 2.5
+	}
+}
+@PART[NB3mQuadEngine] // 3.75m quad-cluster engine
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 3.75
+	}
+}
+@PART[NB3mHoundEngine] // 3.75m "terrier" engine
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 3.75
+	}
+}
+@PART[NBinstake0m] // 0.625m ram air intake (yes, I know it says "instake")
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 0.625
+	}
+}
+@PART[NBintake1m] // 1.25m ram air intake
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 1.25
+	}
+}
+@PART[NBintakeBasic0m] // 0.625m basic air intake
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 0.625
+	}
+}
+@PART[NBjetBasic0m] // 0.625m basic jet engine
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 0.625
+	}
+}
+@PART[NBjetTurbo0m] // 0.625m turbojet engine
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 0.625
+	}
+}
+@PART[NB0mtank1] // 0.625m fuel tank
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 0.625
+	}
+}
+@PART[NB0mtankJet1] // 0.625m short jet fuel tank
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 0.625
+	}
+}
+@PART[NB0mtankJet2] // 0.625m long jet fuel tank
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 0.625
+	}
+}
+@PART[NBconeTank2m] // 2.5m-1.25m fueled adapter
+{
+	MODULE
+	{
+		name = TweakScale
+		type = adapter_2_1
+		defaultScale = 2.5
+	}
+}
+@PART[NBconeTank3m] // 3.75m-2.5m fueled adapter
+{
+	MODULE
+	{
+		name = TweakScale
+		type = adapter_3_2
+		defaultScale = 3.75
+	}
+}
+@PART[NBhalfJumbo] // 2.5m "half jumbo" fuel tank
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 2.5
+	}
+}
+@PART[NBjumboThreeQ] // 2.5m "three quarter" fuel tank
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 2.5
+	}
+}
+@PART[NBminiOrange] // 2.5m "mini orange" (quarter-sizded) fuel tank
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 2.5
+	}
+}
+@PART[SYtank5mL1125] // 5m very long fuel tank
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 5.0
+	}
+}
+@PART[SYejectatron] // super-sized sepratron
+{
+	MODULE
+	{
+		name = TweakScale
+		type = surface
+	}
+}
+@PART[NBmonoprop3m] // 3.75m monopropellant tank
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 3.75
+	}
+}
+@PART[NBradialBoosterTank] // 1.25m radial-booster tank
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 1.25
+	}
+}
+@PART[NBradialMiniTank] // radial small fuel tank
+{
+	MODULE
+	{
+		name = TweakScale
+		type = free
+	}
+}
+@PART[NBwhiteJumbo] // 2.5m "striped jumbo" fuel tank
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 2.5
+	}
+}
+@PART[NBLAStower] // LAS rocket tower
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 1.25
+	}
+}
+@PART[NBLASshroud] // LAS shroud
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 1.25
+	}
+}
+@PART[NBbatteryRadial1] // radial battery
+{
+	MODULE
+	{
+		name = TweakScale
+		type = surface
+	}
+}
+@PART[NBdecouplerLowProfile2m] // 2.5m low-profile stack decoupler
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 2.5
+	}
+}
+@PART[NBdecouplerRadialMini] // radial mini decoupler
+{
+	MODULE
+	{
+		name = TweakScale
+		type = surface
+	}
+}
+@PART[NBdecouplerSlim2m] // 2.5m "slim" stack decoupler ring
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 2.5
+	}
+}
+@PART[NBdockingHelper0] // 0.625m Docking Helper
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 0.625
+	}
+}
+@PART[NBdockingHelper1] // 1.25m Docking Helper
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 1.25
+	}
+}
+@PART[NBdockingHelper2] // 2.5m Docking Helper
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 2.5
+	}
+}
+@PART[NBflingatron] // Flingatron (sepratron x3)
+{
+	MODULE
+	{
+		name = TweakScale
+		type = surface
+	}
+}
+@PART[NBfuelCell1m] // 1.25m fuel cell
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 1.25
+	}
+}
+@PART[NBfuelCellRadial] // Radial fuel cell
+{
+	MODULE
+	{
+		name = TweakScale
+		type = surface
+	}
+}
+@PART[NBrcs5block] // 5-way RCS block
+{
+	MODULE
+	{
+		name = TweakScale
+		type = surface
+	}
+}
+@PART[NBrcsCorner] // "corner" RCS block
+{
+	MODULE
+	{
+		name = TweakScale
+		type = surface
+	}
+}
+@PART[NBxenonSphere] // 0.625m Xenon Sphere
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 0.625
+	}
+}
+@PART[NBxenonSphere1m] // 1.25m Xenon Sphere
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 1.25
+	}
+}
+@PART[NBnoseAero0m] // 0.625m aerodynamic nose cone
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 0.625
+	}
+}
+@PART[NBnoseAero1m] // 1.25m aerodynamic nose cone
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 1.25
+	}
+}
+@PART[NBnoseBooster] // 1.25m booster nose cone
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 1.25
+	}
+}
+@PART[NBnoseDome2m] // 2.5m dome nose cone
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 2.5
+	}
+}
+@PART[NBnoseRounded] // 1.25m rounded nose cone
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		defaultScale = 1.25
+	}
+}
+@PART[NBpylonAero0] // small aerodynamic pylon
+{
+	MODULE
+	{
+		name = TweakScale
+		type = surface
+	}
+}
+@PART[NBpylonAero1] // medium aerodynamic pylon
+{
+	MODULE
+	{
+		name = TweakScale
+		type = surface
+	}
+}
+@PART[NBpylonAero2] // large aerodynamic pylon
+{
+	MODULE
+	{
+		name = TweakScale
+		type = surface
+	}
+}
+@PART[NBadapter1x4] // 1.25 to 4x0.625m adapter
+{
+	MODULE
+	{
+		name = TweakScale
+		type = adapter_2_1
+		defaultScale = 1.25
+	}
+}
+@PART[NBadapter1x5] // 1.25 to 5x0.625m adapter
+{
+	MODULE
+	{
+		name = TweakScale
+		type = adapter_2_1
+		defaultScale = 1.25
+	}
+}
+@PART[NBadapter2-1] // 2.5m to 1.25m adapter
+{
+	MODULE
+	{
+		name = TweakScale
+		type = adapter_2_1
+		defaultScale = 2.5
+	}
+}
+@PART[NBadapter2x5] // 2.5 to 5x1.25m adapter
+{
+	MODULE
+	{
+		name = TweakScale
+		type = adapter_2_1
+		defaultScale = 2.5
+	}
+}
+@PART[NBadapter3x3] // 3.75 to 3x2.5m adapter
+{
+	MODULE
+	{
+		name = TweakScale
+		type = adapter_3_2
+		defaultScale = 3.75
+	}
+}
+@PART[NBadapter3x7] // 3.75 to 7x1.25m adapter
+{
+	MODULE
+	{
+		name = TweakScale
+		type = adapter_3_1
+		defaultScale = 3.75
+	}
+}
+@PART[NBflatAdapter2m] // 2.5m to 1.25m flat adapter
+{
+	MODULE
+	{
+		name = TweakScale
+		type = adapter_2_1
+		defaultScale = 2.5
+	}
+}
+@PART[NBflatAdapter3m] // 3.75m to 2.5m flat adapter
+{
+	MODULE
+	{
+		name = TweakScale
+		type = adapter_3_2
+		defaultScale = 3.75
+	}
+}
+@PART[NBinterstageDecoupler3m] // 3.75m to 2.5m interstage decoupler/adapter
+{
+	MODULE
+	{
+		name = TweakScale
+		type = adapter_3_2
+		defaultScale = 3.75
+	}
+}
+
+

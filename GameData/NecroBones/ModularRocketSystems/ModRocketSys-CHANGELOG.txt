@@ -3,9 +3,12 @@ Modular Rocket Systems  -and-  Modular Rocket Systems Lite
 These are considered to be the same mod, just one with a smaller selection of the
 same parts than the other, so they share the same README and revision history.
 
+1.13.2 (2018-03-12) - Tweaks.
+ - Added some missing data to the Tweakscale config.
+
 1.13.1 (2016-10-21) - Fixes.
  - RCS sounds/effects added.
- - Radial battery movied to Electrical menu tab.
+ - Radial battery moved to Electrical menu tab.
 
 1.13 (2016-10-11) - KSP 1.2 Compatibility.
  - Added MM "NEEDS" conditionals to RemoteTech modules in probe cores.
