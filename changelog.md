@@ -10,6 +10,9 @@
 | spacedock  | (https://spacedock.info/mod/86)                                   |
 | ckan       | ModularRocketSystems                                              |
 
+TweakScale.cfg
+mrs-rtg-125 was 0.625 should by 1.25
+
 ## Version 1.13.2.1-hotfix - `<Lisias TweakScale'R'Us>` edition
 
 * Released
