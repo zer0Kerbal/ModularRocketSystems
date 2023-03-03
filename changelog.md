@@ -38,7 +38,7 @@ mrs-leg-1 add ModuleWheelDamage ?correct values
     * Resource
       * drill-250.cfg
       * fuelcell-125.cfg
-  * parts renamed, yet to be done.
+  * 49 parts renamed, yet to be done.
 
 ## Version 1.13.2.1-hotfix - `<Lisias TweakScale'R'Us>` edition
 
