@@ -14,6 +14,32 @@ TweakScale.cfg
 mrs-rtg-125 was 0.625 should by 1.25
 mrs-leg-1 add ModuleWheelDamage ?correct values
 
+* X total parts
+  * 16 parts done.
+    * Cargo Bays
+      * 1.25m
+      * 2.50 short
+      * 2.50 long
+    * Command
+      * probe-cone-125.cfg
+      * probe-radial-1.cfg
+      * probe-radial-2.cfg
+    * Control
+      * rcs-5.cfg
+      * rcs-corner.cfg
+      * sas-0625.cfg
+      * sas-250.cfg
+      * sas-375.cfg
+    * Electrical
+      * battery-radial-600.cfg
+      * rtg-125.cfg
+    * Ground
+      * leg-1.cfg
+    * Resource
+      * drill-250.cfg
+      * fuelcell-125.cfg
+  * parts renamed, yet to be done.
+
 ## Version 1.13.2.1-hotfix - `<Lisias TweakScale'R'Us>` edition
 
 * Released
