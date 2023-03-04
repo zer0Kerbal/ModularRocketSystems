@@ -17,8 +17,8 @@ mrs-leg-1 add ModuleWheelDamage ?correct values
 * Two new parts
   * Based upon forum submission by [pejsek](https://forum.kerbalspaceprogram.com/index.php?/profile/139640-*//)
   * 1.875m Cargo Bay, long and short
-* X total parts
-  * 16 parts done.
+* 67 total
+  * Initial update pass done on 16 parts
     * Cargo Bays
       * 1.25m
       * 2.50 short
@@ -41,7 +41,7 @@ mrs-leg-1 add ModuleWheelDamage ?correct values
     * Resource
       * drill-250.cfg
       * fuelcell-125.cfg
-  * 49 parts renamed, yet to be done.
+  * 49 parts renamed, yet to be updated
 
 ## Version 1.13.2.1-hotfix - `<Lisias TweakScale'R'Us>` edition
 
