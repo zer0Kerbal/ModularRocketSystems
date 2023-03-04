@@ -134,14 +134,14 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
-	link = NB0mtankJet1_4294546398
-	link = NB0mtankJet2_4294545864
-	link = NB0mtankJet2_4294545792
+	link = mrs-tank-0625-lf-1_4294546398
+	link = mrs-tank-0625-lf-2_4294545864
+	link = mrs-tank-0625-lf-2_4294545792
 	link = SmallGearBay_4294506080
 	link = fuelLine_4294523842
 	link = fuelLine_4294388776
 	attN = top,probeCoreOcto2_4294561834
-	attN = bottom,NB0mtankJet1_4294546398
+	attN = bottom,mrs-tank-0625-lf-1_4294546398
 	EVENTS
 	{
 	}
@@ -174,7 +174,7 @@ PART
 }
 PART
 {
-	part = NB0mtankJet1_4294546398
+	part = mrs-tank-0625-lf-1_4294546398
 	partName = Part
 	pos = 0.4120727,9.948532,-0.01082194
 	attPos = 0,0,0
@@ -193,9 +193,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
-	link = NB0mtankJet1_4294444350
+	link = mrs-tank-0625-lf-1_4294444350
 	attN = top,NB0mtank1_4294547736
-	attN = bottom,NB0mtankJet1_4294444350
+	attN = bottom,mrs-tank-0625-lf-1_4294444350
 	EVENTS
 	{
 	}
@@ -218,7 +218,7 @@ PART
 }
 PART
 {
-	part = NB0mtankJet1_4294444350
+	part = mrs-tank-0625-lf-1_4294444350
 	partName = Part
 	pos = 0.4120727,9.948532,-0.9488249
 	attPos = 0,0,0
@@ -239,7 +239,7 @@ PART
 	modSize = (0.0, 0.0, 0.0)
 	link = NBjetBasic0m_4294497988
 	link = AdvancedCanard_4294511582
-	attN = top,NB0mtankJet1_4294546398
+	attN = top,mrs-tank-0625-lf-1_4294546398
 	attN = bottom,NBjetBasic0m_4294497988
 	EVENTS
 	{
@@ -282,7 +282,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
-	attN = top,NB0mtankJet1_4294444350
+	attN = top,mrs-tank-0625-lf-1_4294444350
 	EVENTS
 	{
 	}
@@ -474,7 +474,7 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
-	srfN = srfAttach,NB0mtankJet1_4294444350
+	srfN = srfAttach,mrs-tank-0625-lf-1_4294444350
 	EVENTS
 	{
 	}
@@ -535,7 +535,7 @@ PART
 }
 PART
 {
-	part = NB0mtankJet2_4294545864
+	part = mrs-tank-0625-lf-2_4294545864
 	partName = Part
 	pos = -0.2027826,9.948532,0.474894
 	attPos = 0,0,0
@@ -562,7 +562,7 @@ PART
 	link = airbrake1_4294380682
 	link = solarPanels5_4294402778
 	link = solarPanels5_4294402644
-	sym = NB0mtankJet2_4294545792
+	sym = mrs-tank-0625-lf-2_4294545792
 	srfN = srfAttach,NB0mtank1_4294547736
 	attN = top,NBinstake0m_4294541954
 	attN = bottom,NBjetTurbo0m_4294534410
@@ -608,7 +608,7 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	sym = NBinstake0m_4294542062
-	attN = bottom,NB0mtankJet2_4294545864
+	attN = bottom,mrs-tank-0625-lf-2_4294545864
 	EVENTS
 	{
 	}
@@ -689,7 +689,7 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	sym = NBjetTurbo0m_4294534098
-	attN = top,NB0mtankJet2_4294545864
+	attN = top,mrs-tank-0625-lf-2_4294545864
 	EVENTS
 	{
 	}
@@ -882,7 +882,7 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	sym = SmallGearBay_4294506348
-	srfN = srfAttach,NB0mtankJet2_4294545864
+	srfN = srfAttach,mrs-tank-0625-lf-2_4294545864
 	EVENTS
 	{
 	}
@@ -1169,7 +1169,7 @@ PART
 	modSize = (0.0, 0.0, 0.0)
 	link = smallCtrlSrf_4294441304
 	sym = delta.small_4294447274
-	srfN = srfAttach,NB0mtankJet2_4294545864
+	srfN = srfAttach,mrs-tank-0625-lf-2_4294545864
 	EVENTS
 	{
 	}
@@ -1274,7 +1274,7 @@ PART
 }
 PART
 {
-	part = NB0mtankJet2_4294545792
+	part = mrs-tank-0625-lf-2_4294545792
 	partName = Part
 	pos = 1.026928,9.948532,0.474894
 	attPos = 0,0,0
@@ -1301,7 +1301,7 @@ PART
 	link = airbrake1_4294379570
 	link = solarPanels5_4294374676
 	link = solarPanels5_4294374534
-	sym = NB0mtankJet2_4294545864
+	sym = mrs-tank-0625-lf-2_4294545864
 	srfN = srfAttach,NB0mtank1_4294547736
 	attN = top,NBinstake0m_4294542062
 	attN = bottom,NBjetTurbo0m_4294534098
@@ -1347,7 +1347,7 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	sym = NBinstake0m_4294541954
-	attN = bottom,NB0mtankJet2_4294545792
+	attN = bottom,mrs-tank-0625-lf-2_4294545792
 	EVENTS
 	{
 	}
@@ -1428,7 +1428,7 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	sym = NBjetTurbo0m_4294534410
-	attN = top,NB0mtankJet2_4294545792
+	attN = top,mrs-tank-0625-lf-2_4294545792
 	EVENTS
 	{
 	}
@@ -1621,7 +1621,7 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	sym = SmallGearBay_4294507054
-	srfN = srfAttach,NB0mtankJet2_4294545792
+	srfN = srfAttach,mrs-tank-0625-lf-2_4294545792
 	EVENTS
 	{
 	}
@@ -1908,7 +1908,7 @@ PART
 	modSize = (0.0, 0.0, 0.0)
 	link = smallCtrlSrf_4294441264
 	sym = delta.small_4294447322
-	srfN = srfAttach,NB0mtankJet2_4294545792
+	srfN = srfAttach,mrs-tank-0625-lf-2_4294545792
 	EVENTS
 	{
 	}
@@ -2442,7 +2442,7 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	sym = fuelLine_4294389042
-	srfN = srfAttach,NB0mtankJet2_4294545792
+	srfN = srfAttach,mrs-tank-0625-lf-2_4294545792
 	EVENTS
 	{
 	}
@@ -2501,7 +2501,7 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	sym = fuelLine_4294389872
-	srfN = srfAttach,NB0mtankJet2_4294545864
+	srfN = srfAttach,mrs-tank-0625-lf-2_4294545864
 	EVENTS
 	{
 	}
@@ -2678,7 +2678,7 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	sym = airbrake1_4294379570
-	srfN = srfAttach,NB0mtankJet2_4294545864
+	srfN = srfAttach,mrs-tank-0625-lf-2_4294545864
 	EVENTS
 	{
 	}
@@ -2762,7 +2762,7 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	sym = airbrake1_4294380682
-	srfN = srfAttach,NB0mtankJet2_4294545792
+	srfN = srfAttach,mrs-tank-0625-lf-2_4294545792
 	EVENTS
 	{
 	}
@@ -2846,7 +2846,7 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	sym = solarPanels5_4294374676
-	srfN = srfAttach,NB0mtankJet2_4294545864
+	srfN = srfAttach,mrs-tank-0625-lf-2_4294545864
 	EVENTS
 	{
 	}
@@ -2928,7 +2928,7 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	sym = solarPanels5_4294402778
-	srfN = srfAttach,NB0mtankJet2_4294545792
+	srfN = srfAttach,mrs-tank-0625-lf-2_4294545792
 	EVENTS
 	{
 	}
@@ -3010,7 +3010,7 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	sym = solarPanels5_4294374534
-	srfN = srfAttach,NB0mtankJet2_4294545864
+	srfN = srfAttach,mrs-tank-0625-lf-2_4294545864
 	EVENTS
 	{
 	}
@@ -3092,7 +3092,7 @@ PART
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
 	sym = solarPanels5_4294402644
-	srfN = srfAttach,NB0mtankJet2_4294545792
+	srfN = srfAttach,mrs-tank-0625-lf-2_4294545792
 	EVENTS
 	{
 	}
