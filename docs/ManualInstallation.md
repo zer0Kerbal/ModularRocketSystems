@@ -29,7 +29,7 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the `NecroBones` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/NecroBones//ModularRocketSystems`
+  * Delete `<KSP_ROOT>/GameData/NecroBones/ModularRocketSystems`
 * Extract the package's `NecroBones/` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/NecroBones` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
