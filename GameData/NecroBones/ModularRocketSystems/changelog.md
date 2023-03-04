@@ -1,8 +1,8 @@
-# Changelog 
- 
+# Changelog
+
 | modName    | Modular Rocket Systems (MRS)                                      |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0                                                   |
+| license    | CC-BY-SA-4.0                                                      |
 | author     | NecroBones and zer0Kerbal                                         |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/211992-*/) |
 | github     | (https://github.com/zer0Kerbal/ModularRocketSystems)              |
