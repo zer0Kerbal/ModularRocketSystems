@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/86)                                   |
 | ckan       | ModularRocketSystems                                              |
 
-## Version 1.13.99.0-adoption - `<Thank you NecroBones>>` edition
+## Version 1.13.99.0-adoption - `<Thank you NecroBones>` edition
 
 * Released
   * 01 Mar 2023
@@ -23,7 +23,7 @@
 
 * This release is the first in a series of updates to this addon. Each update will update some of the parts and patches so that this addon can be updated in a more manageable manner instead of one massive update.
 * Phase I (initial) pass
-  * parts pass started (see 1.13.99.0 for more details)
+  * parts pass started
 * <ghostparts.cfg> is provided for testing and will not be active for v2.0.0.0-release.
 * Can now search for `mrs` in the editor search bar to find parts in this pack.
 * Two new parts
@@ -32,35 +32,30 @@
 * 67 total
   * Initial update pass done on 16 parts
     * Cargo Bays
-      * 1.25m
-      * 2.50 short
-      * 2.50 long
-    * Command
-      * probe-cone-125.cfg
-      * probe-radial-1.cfg
-      * probe-radial-2.cfg
+      * 1.25m, 2.50m short, 2.50m long
+    * Probe
+      * 1.25m Cone
+      * Radial 1
+      * Radial 2 (advanced)
     * Control
-      * rcs-5.cfg
-      * rcs-corner.cfg
-      * sas-0625.cfg
-      * sas-250.cfg
-      * sas-375.cfg
+      * RCS 5-way block
+      * RCS corner block
+      * SAS
+        * 0.625m, 2.50m and 3.75m
     * Electrical
-      * battery-radial-600.cfg
-      * rtg-125.cfg
+      * Battery 600ec Radial
+      * 1.25m RTG
     * Ground
-      * leg-1.cfg
+      * Landing Leg
     * Resource
-      * drill-250.cfg
-      * fuelcell-125.cfg
+      * 2.5m Drill
+      * 1.25m Fuelcell
   * 49 parts renamed, yet to be updated
 * TweakScale.cfg
   * mrs-rtg-125 scale was 0.625 should by 1.25
 * mrs-leg-1
   * add ModuleWheelDamage
   * ?correct values
-
-### Changes 1.13.99.0
 
 ### Archival Releases 1.13.99.0
 
