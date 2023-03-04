@@ -10,10 +10,22 @@
 | spacedock  | (https://spacedock.info/mod/86)                                   |
 | ckan       | ModularRocketSystems                                              |
 
-TweakScale.cfg
-mrs-rtg-125 was 0.625 should by 1.25
-mrs-leg-1 add ModuleWheelDamage ?correct values
+## Version 1.13.99.0-adoption - `<Thank you NecroBones>>` edition
 
+* Released
+  * 01 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.13.99.0
+
+* This release is the first in a series of updates to this addon. Each update will update some of the parts and patches so that this addon can be updated in a more manageable manner instead of one massive update.
+* Phase I (initial) pass
+  * parts pass started (see 1.13.99.0 for more details)
+* <ghostparts.cfg> is provided for testing and will not be active for v2.0.0.0-release.
+* Can now search for `mrs` in the editor search bar to find parts in this pack.
 * Two new parts
   * Based upon forum submission by [pejsek](https://forum.kerbalspaceprogram.com/index.php?/profile/139640-*//)
   * 1.875m Cargo Bay, long and short
@@ -42,6 +54,166 @@ mrs-leg-1 add ModuleWheelDamage ?correct values
       * drill-250.cfg
       * fuelcell-125.cfg
   * 49 parts renamed, yet to be updated
+* TweakScale.cfg
+  * mrs-rtg-125 scale was 0.625 should by 1.25
+* mrs-leg-1
+  * add ModuleWheelDamage
+  * ?correct values
+
+### Changes 1.13.99.0
+
+### Archival Releases 1.13.99.0
+
+* Create
+
+* Archival Releases
+  * [x] 1.13.2.0-release `<Archival>`
+  * [x] 1.13.1.0-release `<Archival>`
+  * [x] 1.13.0.0-release `<Archival>`
+  * [x] 1.12.8.0-release `<Archival>`
+  * [x] 1.12.7.0-release `<Archival>`
+  * [x] 1.12.6.0-release `<Archival>`
+  * [x] 1.12.5.0-release `<Archival>`
+  * [x] 1.12.4.0-release `<Archival>`
+  * [x] 1.12.3.0-release `<Archival>`
+  * [x] 1.12.2.0-release `<Archival>`
+  * [x] 1.12.1.0-release `<Archival>`
+  * [x] 1.12.0.0-release `<Archival>`
+  * [x] 1.11.1.0-release `<Archival>`
+  * [x] 1.11.0.0-release `<Archival>`
+  * [x] 1.10.1.0-release `<Archival>`
+  * [x] 1.10.0.0-release `<Archival>`
+  * [x] 1.9.0.0-release `<Archival>`
+  * [x] 1.8.0.0-release `<Archival>`
+  * [x] 1.7.4.0-release `<Archival>`
+  * [x] 1.7.3.0-release `<Archival>`
+  * [x] 1.7.2.0-release `<Archival>`
+  * [x] 1.7.1.0-release `<Archival>`
+  * [x] 1.7.0.0-release `<Archival>`
+  * [x] 1.6.6.0-release `<Archival>`
+  * [x] 1.6.5.0-release `<Archival>`
+  * [x] 1.6.4.0-release `<Archival>`
+  * [x] 1.6.3.0-release `<Archival>`
+  * [x] 1.6.2.0-release `<Archival>`
+  * [x] 1.6.1.0-release `<Archival>`
+  * [x] 1.6.0.0-release `<Archival>`
+  * [x] 1.5.1.0-release `<Archival>`
+  * [x] 1.5.0.0-release `<Archival>`
+  * [x] 1.4.4.0-release `<Archival>`
+  * [x] 1.4.3.0-release `<Archival>`
+  * [x] 1.4.2.0-release `<Archival>`
+  * [x] 1.4.1.0-release `<Archival>`
+  * [x] 1.4.0.0-release `<Archival>`
+  * [x] 1.3.2.0-release `<Archival>`
+  * [x] 1.3.1.0-release `<Archival>`
+  * [x] 1.3.0.0-release `<Archival>`
+  * [x] 1.2.0.0-release `<Archival>`
+  * [x] 1.1.0.0-release `<Archival>`
+  * [x] 1.0.0.0-release `<Archival>`
+  * [x] 0.7.0.0-release `<Archival>`
+  * [x] 0.6.0.0-release `<Archival>`
+  * [x] 0.5.0.0-release `<Archival>`
+  * [x] 0.4.0.0-release `<Archival>`
+  * [x] 0.3.0.0-release `<Archival>`
+  * [x] 0.2.0.0-release `<Archival>`
+  * [x] 0.1.0.0-release `<Archival>`
+  * [x] 0.0.0.0-release `<Archival>`
+* closes #7 - Archival Releases
+* closes #89 - [BUG] Archival Releases
+
+### Compatibility 1.13.99.0
+
+* Split out patches from parts (started)
+
+### Localization 1.13.99.0
+
+* Create
+  * Localization/
+    * <en-us.cfg> v1.0.0.0
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+* Create
+  * [ModularRocketSystems.cfg] v1.0.0.0
+    * adds localized tags to parts
+* closes #8 - Create Localization directory and contents
+* closes #10 - Create <ModularRocketSystems.cfg>
+* closes #65 - Localization - Master
+* closes #83 - Part Localization
+* updates #84 - Part Tags
+* updates #66 - English <en-us.cfg>
+  
+### Parts 1.13.99.0
+
+* Add
+  * <ghostParts.cfg> v2.0.0.0
+* Rename
+  * parts to match naming scheme
+  * part files to match part names
+* Fix
+* Lint
+* Reformat
+* Errors
+  * closes #147 - [BUG] TweakScale is reporting
+  * closes #146 - [Bug 🐞]: Lander leg missing ModuleWheelDamage, causes IVA mods (MAS/ASET) to crash
+* Patches
+  * Updated
+    * filenames
+    * Module Manger patch headers
+    * file headers
+    * general linting
+* Two new parts supplied by forums
+  * thank you by [pejsek](https://forum.kerbalspaceprogram.com/index.php?/profile/139640-*//)
+
+### Assets 1.13.99.0
+
+* create Assets/ folder
+* convert
+  * from mesh to MODEL
+* rename
+  * Rename model files to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * remove duplicates textures/models
+* relocate part.cfg to Parts/
+* udpates #9 - Part Asset Updates
+
+### Documentation 1.13.99.0
+
+* Add
+  * GitHub Pages
+    * [`_config.yml`]
+    * [Attribution.md] v1.0.7.1
+    * [ManualInstallation.md] v1.1.8.0
+    * [404.md] v1.0.3.2
+    * [LegalMumboJumbo.md] v1.0.5.1
+    * [Localizations.md] v1.1.7.0
+    * [Marketing.md] v1.0.1.0
+    * [Notices.md] v1.0.1.0
+    * [Part-Catalog.md] v1.1.4.1
+    * [Why.md] v1.1.0.0
+  * docs/thumbs
+* closes #5 - Create GitHub Pages
+
+### Cover image 1.13.99.0
+
+* Create HeroLogo/Cover image
+* closes #6 - Create HeroLogo.png
+
+### Status 1.13.99.0
+
+* Issues
+  * closes #1 - Modular Rocket Systems (MRS) 1.13.99.0-adoption `<Thank you NecroBones>` edition
+  * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 1.1.99.0 Create Documentation
+  * closes #4 - 1.1.99.0 Create Social Media Presence
+  * closes #85 - Create Agency
+  * closes #11 - Update License
+
+---
 
 ## Version 1.13.2.1-hotfix - `<Lisias TweakScale'R'Us>` edition
 
