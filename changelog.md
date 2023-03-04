@@ -14,6 +14,9 @@ TweakScale.cfg
 mrs-rtg-125 was 0.625 should by 1.25
 mrs-leg-1 add ModuleWheelDamage ?correct values
 
+* Two new parts
+  * Based upon forum submission by [pejsek](https://forum.kerbalspaceprogram.com/index.php?/profile/139640-*//)
+  * 1.875m Cargo Bay, long and short
 * X total parts
   * 16 parts done.
     * Cargo Bays
