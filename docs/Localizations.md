@@ -36,7 +36,7 @@ __These localizations for KSP and its DLC's are available through Steam:__
 ## Additionally Included
 
 * ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
-* ![한국어][KO] [Korean (한국어) <ko.cfg>  
+* ![한국어][KO] Korean (한국어) <ko.cfg>  
 * ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
 * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
 * ![Polski][PO] Polish (Polski) <pl.cfg>  
@@ -65,4 +65,4 @@ __These localizations for KSP and its DLC's are available through Steam:__
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"  
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
 
-this file CC BY-ND 4.0 by zer0Kerbal
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
