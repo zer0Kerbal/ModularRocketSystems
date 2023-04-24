@@ -80,4 +80,4 @@ Finalize your build and load up the resources, and
 [IMG:hero:2d]: https://i.imgur.com/6v9gwma.png "Building Rockets"
 [IMG:hero:2e]: https://i.imgur.com/nmq46HA.png "Finalize build!"
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
