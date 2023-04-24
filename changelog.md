@@ -174,7 +174,7 @@
 * eliminate
   * remove duplicates textures/models
 * relocate part.cfg to Parts/
-* udpates #9 - Part Asset Updates
+* updates #9 - Part Asset Updates
 
 ### Documentation 1.13.99.0
 
