@@ -9,7 +9,7 @@ Modular Rocket Systems (MRS)
 created: 01 Oct 2019
 updated: 29 Jul 2022 -->
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 <!-- based upon work by Lisias -->
 
 # Modular Rocket Systems (MRS)
