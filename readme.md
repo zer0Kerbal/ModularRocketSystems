@@ -243,7 +243,7 @@ Comment, click, like, share, up-vote, subscribe
 [FTF]: https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingFacility "Field Training Facility (FTF)"
 [FTL]: https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingLab "Field Training Lab (FTL)"
 [GPO]: https://www.curseforge.com/kerbal/ksp-mods/GPOSpeedPump "GPO SpeedPump (GPO)"
-[KAMP]: https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel"Adjustable Mod Panel (KAMP)"
+[KAMP]: https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel "Adjustable Mod Panel (KAMP)"
 [MOAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*/ "MoarKerbals (MOAR)"
 [MSI]: https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments "Mkerb Science Instruments (MSI)"
 [MSRV]: https://www.curseforge.com/kerbal/Pteron "Pteron (MSRV)"
