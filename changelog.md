@@ -10,6 +10,47 @@
 | spacedock  | (https://spacedock.info/mod/86)                                   |
 | ckan       | ModularRocketSystems                                              |
 
+## Version 1.13.99.1-prerelease - `<Codingale: TweakScale'R'Us>` edition
+
+* Released
+  * 24 Apr 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.13.99.1
+
+* This release is the next in a series of updates to this addon. Each update will update some of the parts and patches so that this addon can be updated in a more manageable manner instead of one massive update.
+* Phase I (initial) pass
+  * parts pass started
+* <ghostparts.cfg> is provided for testing 
+* Can now search for `mrs` in the editor search bar to find parts in this pack.
+* TweakScale.cfg
+  * fixed patch double patching certain parts
+  * thank you to [Codingale](https://github.com/Codingale)
+  * thank you to [Lisias](https://github.com/Lisias)
+
+### Hotfix 1.13.99.1
+
+* TweakScale.cfg
+  * fixed patch double patching certain parts
+  * thank you to [Codingale](https://github.com/Codingale)
+  * thank you to [Lisias](https://github.com/Lisias)
+* closes #147 - [BUG] TweakScale is reporting
+
+### Update 1.13.99.1
+
+* Update
+  * GitHub Pages
+  * HeroLogo/Cover image
+
+### Status 1.13.99.1
+
+* Issues
+  * closes #150 - Modular Rocket Systems (MRS) 1.13.99.1-prerelease `<Codingale: TweakScale'R'Us>` edition
+  * closes #151 - 1.13.99.1 Additional Tasks
+
+---
+
 ## Version 1.13.99.0-adoption - `<Thank you NecroBones>` edition
 
 * Released
