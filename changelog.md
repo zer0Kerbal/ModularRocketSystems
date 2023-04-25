@@ -37,6 +37,13 @@
   * thank you to [Lisias](https://github.com/Lisias)
 * closes #147 - [BUG] TweakScale is reporting
 
+mrs-flingatron
+mrs-tank-xenon-125-sp
+mrs-tank-xenon-0625-sp
+mrs-decoup-250-lp
+mrs-decoup-250-slim
+mrs-decoup-radial-mini
+
 ### Update 1.13.99.1
 
 * Update
