@@ -118,7 +118,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [SimpleLogistics! (SLOG)][SLOG]
 * [SimpleNotes! (NOTE)][NOTES]
 * [Solar Science (SOL)][SOL]
-* [Stock Inline Lights (SIL)][SIL]
+* [Stack Inline Lights (SIL)][SIL]
 
 * The collection of [Fuel Tanks Plus Ltd (FTPL)][FTPL] large stock-like tanks with Color Coded Canister style:
   * [Fuel Tanks Plus (FTP)][FTP]
@@ -254,7 +254,7 @@ Comment, click, like, share, up-vote, subscribe
 [PIZZA]: https://www.curseforge.com/kerbal/ksp-mods/Pizza "Papa Kerballini's Pizza (PIZZA)"
 [PM]: https://www.curseforge.com/kerbal/ksp-mods/PreciseManeuver "Precise Maneuver (PM)"
 [SCON]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"
-[SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stock Inline Lights (SIL)"
+[SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stack Inline Lights (SIL)"
 [SLOG]: https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics "SimpleLogistics! (SLOG)"
 [SOL]: https://www.curseforge.com/kerbal/ksp-mods/SolarScience "Solar Science (SOL)"
 [SYD]: https://www.curseforge.com/kerbal/ksp-mods/ScrapYard "ScrapYard (SYD)"
