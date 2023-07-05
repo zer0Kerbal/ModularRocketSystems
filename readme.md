@@ -275,7 +275,8 @@ Comment, click, like, share, up-vote, subscribe
 [SYC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209511-*/ "SpaceY Corporation (SYC)"
 [SYE]: https://forum.kerbalspaceprogram.com/index.php?/topic/211576-*/ "SpaceY Expanded (SYE)"
 [SYL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Lifters (SYL)"
- 
+
+[enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "Enceos"  
 [KHL]: https://www.curseforge.com/kerbal/ksp-mods/kerbalhacksltd "Kerbal Hacks Ltd (KHL)"
 [DROP]: https://www.curseforge.com/kerbal/ksp-mods/DropTanks  "Drop Tanks (DROP)"
 [SMF]: https://www.curseforge.com/kerbal/ksp-mods/SimpleMisisonFlags "Simple Mission Flags (SMF)"

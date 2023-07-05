@@ -21,6 +21,63 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | spacedock  | (https://spacedock.info/mod/86)                                   |
 | ckan       | ModularRocketSystems                                              |
 
+## Version 1.13.99.1-prerelease - `<Codingale: TweakScale'R'Us>` edition
+
+* Released
+  * 24 Apr 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.13.99.1
+
+* This release is the next in a series of updates to this addon. Each update will update some of the parts and patches so that this addon can be updated in a more manageable manner instead of one massive update.
+* Phase I (initial) pass
+  * parts pass started
+* <ghostparts.cfg> is provided for testing 
+* Can now search for `mrs` in the editor search bar to find parts in this pack.
+* 67 parts total
+  * Initial update pass done on 22 parts, 45 left to be updated
+  * Updated
+    * Flingatron
+    * Tank Xenon 1.25m
+    * Tank Xenon 0.625m
+    * Decoupler 2.50m lp
+    * Decoupler 2.50m slim
+    * Decoupler mini-radial
+* TweakScale.cfg
+  * fixed patch double patching certain parts
+  * thank you to [Codingale](https://github.com/Codingale)
+  * thank you to [Lisias](https://github.com/Lisias)
+
+### Parts 1.13.99.1
+
+* Updated
+  * mrs-flingatron
+  * mrs-tank-xenon-125-sp
+  * mrs-tank-xenon-0625-sp
+  * mrs-decoup-250-lp
+  * mrs-decoup-250-slim
+  * mrs-decoup-radial-mini
+
+### Update 1.13.99.1
+
+* Update
+  * [TweakScale.cfg] v1.13.99.1
+    * fixed patch double patching certain parts
+    * thank you to [Codingale](https://github.com/Codingale)
+    * thank you to [Lisias](https://github.com/Lisias)
+  * GitHub Pages
+  * HeroLogo/Cover image
+* closes #147 - [BUG] TweakScale is reporting
+
+### Status 1.13.99.1
+
+* Issues
+  * closes #150 - Modular Rocket Systems (MRS) 1.13.99.1-prerelease `<Codingale: TweakScale'R'Us>` edition
+  * closes #151 - 1.13.99.1 Additional Tasks
+
+---
+
 ## Version 1.13.99.0-adoption - `<Thank you NecroBones>` edition
 
 * Released
@@ -185,7 +242,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * eliminate
   * remove duplicates textures/models
 * relocate part.cfg to Parts/
-* udpates #9 - Part Asset Updates
+* updates #9 - Part Asset Updates
 
 ### Documentation 1.13.99.0
 
