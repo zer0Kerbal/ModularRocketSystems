@@ -14,8 +14,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![GitHub Pages][PAGES:shd]][pages]
 
-
-A stock-alike parts pack that fills in a variety of gaps in the stock lineup of rocketry parts.
+A stock-alike parts pack with 67 parts that fills in a variety of gaps in the stock lineup of rocketry parts.
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`NecroBones`][necrobones]
 
