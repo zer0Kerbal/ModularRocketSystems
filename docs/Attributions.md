@@ -4,20 +4,20 @@ title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!--
-Attributions.md v1.0.8.0
+<!-- Attributions.md v1.0.1.0
 Modular Rocket Systems (MRS)
-created: 
-updated: 
+created: 14 Feb 2023
+updated: 04 Jul 2023
 
-TEMPLATE: Attributions.md v1.0.8.0
+TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
-updated: 06 Feb 2023 -->
+updated: 15 Mar 2023
 
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Modular Rocket Systems (MRS)
+## [Modular Rocket Systems (MRS)][mod]
 
 [Home](./index.md)
 
@@ -31,6 +31,17 @@ updated: 06 Feb 2023 -->
 </ul>
 
 ### Reviews
+
+#### <img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px">
+
+* Review
+  * by [`TinyPirate`](https://www.youtube.com/@TinyPirate)
+
+[![Modular Rocket System - 2 Minute Mods - Kerbal Space Program 03](https://img.youtube.com/vi/YdBiifPVCeA/0.jpg)](https://youtu.be/YdBiifPVCeA)
+
+* by [`Skyehawk`](https://www.youtube.com/@Skyehawk)
+
+[![Kerbal Space Program Mod Spotlight || Modular Rocket Systems](https://img.youtube.com/vi/SSDCyMnXeIE.jpg)](https://youtu.be/SSDCyMnXeIE)
 
 ### Flag(s)
 
@@ -53,9 +64,14 @@ updated: 06 Feb 2023 -->
 ### Translations
 
 <ul>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
-  <li><small>Additions and corrections welcome!</small></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png" alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png" alt="Russian (Русский)" style="zoom:100%;" /> Russian (Русский) - спасибо <a href="https://github.com/evanisrael" alt="evanisrael">evanisrael</a></li>
+  <li><small><i>Additions and corrections welcome!</i></small></li>
 </ul>
+
+### Patreons
+
+* K
 
 ### Special Thanks
 
@@ -70,6 +86,7 @@ updated: 06 Feb 2023 -->
 ### Art Asset(s)
 
 * Flags
+* Hero Logo/Cover - All Rights Reserved
 
 ### Testing and Support
 
@@ -78,4 +95,7 @@ updated: 06 Feb 2023 -->
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50px" height="50px" > Zelda</a></li>
 </ul>
 
-THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/ModularRocketSystems "Modular Rocket Systems (MRS)"
