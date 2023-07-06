@@ -1,19 +1,19 @@
-<!-- readme.md v1.13.99.1
+<!-- readme.md v1.13.99.2
 Modular Rocket Systems (MRS)
 created: 12 Feb 2023
-updated: 24 Apr 2023
+updated: 04 Jul 2023
 
-TEMPLATE: readme.md v1.7.2.1
+TEMPLATE: readme.md v1.7.4.2
 created: 17 Jul 2017
-updated: 15 Apr 2023
+updated: 18 Jun 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+# [Modular Rocket Systems (MRS)][CURSFG:url]
 
 [![Modular Rocket Systems (MRS)][MOD:shd]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![GitHub Pages][PAGES:shd]][pages]
 
-# Modular Rocket Systems (MRS)
 
 A stock-alike parts pack that fills in a variety of gaps in the stock lineup of rocketry parts.
 
