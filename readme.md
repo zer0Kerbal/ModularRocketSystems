@@ -143,17 +143,21 @@ Most recent releases only available via CurseForge/OverWolf Website/App
   * [Papa Kerballini's Pizza (PIZZA)](https://curseforge.com/kerbal/ksp-mods/Pizza)
   * [Portable Science Container (PRC)](https://curseforge.com/kerbal/ksp-mods/PortableScienceContainer)
   * [Solar Science (SOL)](https://curseforge.com/kerbal/ksp-mods/SolarScience)
-
 * By [Kerbal Hacks Ltd (KHL)](https://curseforge.com/kerbal/ksp-mods/kerbalhacksltd)
   * [Drop Tanks (DROP)](https://curseforge.com/kerbal/ksp-mods/DropTanks)
   * [Drop Tanks III (DTIII)](https://curseforge.com/kerbal/ksp-mods/DropTanksIII)
   * [Simple Mission Flags (SMF)](https://curseforge.com/kerbal/ksp-mods/SimpleMisisonFlags)
-
 * by [Axial Aerospace](https://curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)
   * [Dreamer (DREAM)](https://curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions)
   * [LanderTek (LTK)](https://curseforge.com/kerbal/ksp-mods/Dreamer)
   * [Simple Cargo Solutions (CARGO)](https://curseforge.com/kerbal/ksp-mods/LanderTek)
   * [WhimChaser (WHIM)](https://curseforge.com/kerbal/ksp-mods/WhimChaser)
+* Fuel Switchers:
+  * [B9 Part Switch](https://forum.kerbalspaceprogram.com/topic/140541-*/)
+  * [FireSpitter Core](https://legacy.curseforge.com/kerbal/ksp-mods/firespitter)
+  * [Interstellar Fuel Switch Core](https://legacy.curseforge.com/kerbal/ksp-mods/interstellar-fuel-switch)
+  * [Modular Fuel Tanks](http://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/)
+  <!-- * [SimpleFuelSwitch](https://forum.kerbalspaceprogram.com/topic/181274-*/) -->
 
 ### Supports
 
