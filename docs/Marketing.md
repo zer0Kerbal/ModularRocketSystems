@@ -43,18 +43,17 @@ this file:
 [top](#table-of-contents)
 
 HERO-01.jpg
-HERO-02-sm.webp
 HERO-02.jpg
 
-1-c7bnkeo-Modular-Rocket-Systems.jpg
-2-pf0nzKe.jpg
-3-xVdxYZf.jpg
-4-U8IbkoO.jpg
-5-QcOsCdZ.jpg
-6-y32b0bO.jpg
-7-IPQrWV9.jpg
-8-2H8LDiy.jpg
-9-99M3eYp.jpg
+01-Modular-Rocket-Systems.jpg
+02-pf0nzKe.jpg
+03-xVdxYZf.jpg
+04-U8IbkoO.jpg
+05-QcOsCdZ.jpg
+06-y32b0bO.jpg
+07-IPQrWV9.jpg
+08-2H8LDiy.jpg
+09-99M3eYp.jpg
 10-e5WLk29.jpg
 11-9vcBvup.jpg
 
@@ -109,7 +108,6 @@ HERO-02.jpg
 60-ixRGYF4-2.5m-stack-decoupler.jpg
 61-x1kq1F6-Decouplers-galore,-with-stock-comparisons.jpg
 62-4eBHwnS-Radial-booster-tanks.jpg
-63-Mt7aTns.jpg
 
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
