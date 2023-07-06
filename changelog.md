@@ -1,14 +1,88 @@
 # Changelog
 
-| modName    | Modular Rocket Systems (MRS)                                      |
+| modName    | Modular Rocket Systems (MRS) by NecroBones                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                      |
+| license    | CC-BY-SA-4.0+ARR                                                  |
 | author     | NecroBones and zer0Kerbal                                         |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/211992-*/) |
 | github     | (https://github.com/zer0Kerbal/ModularRocketSystems)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ModularRocketSystems) |
 | spacedock  | (https://spacedock.info/mod/86)                                   |
 | ckan       | ModularRocketSystems                                              |
+
+## Version 1.13.99.2-prerelease - `<Спасибо evanisrael+ngx-ree>` edition
+
+* Released
+  * 04 Jul 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.13.99.2
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github.com/evanisrael)
+
+### Changes 1.13.99.2
+
+#### Parts 1.13.99.2
+
+* closes #157 - [Bug 🐞]: Some RCS parts keep throwing NullReferenceException exceptions in editor, some decouplers cannot be staged.
+
+#### Assets 1.13.99.2
+
+  * closes #9 - Part Asset Updates
+
+#### Compatibility 1.13.99.2
+
+#### Config 1.13.99.2
+
+#### Localization 1.13.99.2
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+* closes #73 - Russian (Русский) <ru.cfg>
+* updates #65 - Localization - Master
+* updates #66 - English <en-us.cfg>
+
+#### Documentation 1.13.99.2
+
+* Add
+  * [Flags.md] v1.0.0.0
+* Update
+  * [readme.md] v1.13.99.2
+  * [ReleaseLayout.md] v1.13.99.2
+  * [_config.yml] v1.0.1.0
+  * [404.md] v1.0.1.0
+  * [Attributions.md] v1.0.1.0
+  * [Disclaimer.md] v1.0.1.0
+  * [LegalMumboJumbo.md] v1.0.1.0
+  * [Localizations.md] v1.0.1.0
+  * [ManualInstallation.md] v1.0.1.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [PartsCatalog.md] v1.0.1.0
+  * [Why.md] v1.0.1.0
+
+### Status 1.13.99.2
+
+* Issues
+  * closes #153 - Modular Rocket Systems (MRS) 1.13.99.2-prerelease `<Спасибо evanisrael+ngx-ree>` edition
+  * closes #154 - 1.13.99.2 Additional Tasks
+
+  * closes #152 - [REQUEST] update .craft files to use new part names
+  * closes #84 - Part Tags
+
+----
 
 ## Version 1.13.99.1-prerelease - `<Codingale: TweakScale'R'Us>` edition
 
