@@ -85,7 +85,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * 📌 Pinned
   * Dependencies:
     <!-- * [Necro Bones Agencies (NBA)](https://curseforge.com/kerbal/ksp-mods/NecroBonesAgencies) -->
-    * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][SHD:ksp]][KSP:url]
+    * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
 
 ### Recommends
 
