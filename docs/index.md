@@ -8,6 +8,7 @@
 - [404](404.md)
 - [Attributions](Attributions.md)
 - [Disclaimer](Disclaimer.md)
+- [Flags](Flags.md)
 - [LegalMumboJumbo](LegalMumboJumbo.md)
 - [Localizations](Localizations.md)
 - [ManualInstallation](ManualInstallation.md)
