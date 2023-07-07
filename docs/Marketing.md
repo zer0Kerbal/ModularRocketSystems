@@ -4,7 +4,7 @@ title: Marketing Images
 description: camera goes *click-click*
 tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,zedK
 ---
- <!-- Marketing.md v1.0.1.0
+<!-- Marketing.md v1.0.1.0
 Modular Rocket Systems (MRS)
 created: 14 Feb 2023
 updated: 04 Jul 2023
