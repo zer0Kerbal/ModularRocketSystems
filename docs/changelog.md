@@ -11,15 +11,126 @@ updated: 05 Nov 2022
 CC BY-ND 4.0 by zer0Kerbal -->  
 # Changelog
 
-| modName    | Modular Rocket Systems (MRS)                                      |
+| modName    | Modular Rocket Systems (MRS) by NecroBones                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                      |
+| license    | CC-BY-SA-4.0+ARR                                                  |
 | author     | NecroBones and zer0Kerbal                                         |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/211992-*/) |
 | github     | (https://github.com/zer0Kerbal/ModularRocketSystems)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ModularRocketSystems) |
 | spacedock  | (https://spacedock.info/mod/86)                                   |
 | ckan       | ModularRocketSystems                                              |
+
+## Version 1.13.99.2-prerelease - `<Спасибо evanisrael+ngx-ree>` edition
+
+* Released
+  * 05 Jul 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * 67 parts total
+  * This pre-release is the next in a series of updates to this addon. Each update will update some of the parts and patches so that this addon can be updated in a more manageable manner instead of one massive update.
+  * search for `mrs` in the editor search bar to find parts in this pack.
+  * <ghostparts.cfg> is provided for testing
+
+### Change Summary 1.13.99.2
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github.com/evanisrael)
+* Update
+  * Cargo, Command, Control, Coupling, Electrical, Ground, Resource
+  * Stack 1.25 RTG found some more cookies, now generates 6.0 EC/sec
+  * only parts that have [oldName] will be ghosted
+  * Swat Bug(s)
+    * RCS thrusters thought they could glow, they were mistaken
+    * Send decouplers back to remedial decoupling school
+    * thank you to [ngx-ree](https://github.com/ngx-ree)
+
+### Changes 1.13.99.2
+
+#### Parts 1.13.99.2
+
+* Update
+  * Cargo, Command, Control, Coupling, Electrical, Ground, Resource
+  * [mrs-battery-radial-600.cfg] v1.3.99.2
+    * fix placement rotation
+  * [mrs-rtg-125]
+    * ElectricCharge from 4.75 --> 6.0
+    * adjust attachment nodes
+  * Remove [FXModuleAnimateRCS]
+    * RCS thrusters thought they could glow, they were mistaken
+    * [mrs-rcs-corner.cfg] v1.3.99.2
+    * [mrs-rcs-5.cfg] v1.3.99.2
+    * thank you to [ngx-ree](https://github.com/ngx-ree)
+  * Send decouplers back to remedial decoupling school
+    * [mrs-decoup-250-lp.cfg] v1.3.99.2
+    * [mrs-decoup-250-slim.cfg] v1.3.99.2
+    * [mrs-decoup-radial-mini.cfg] v1.3.99.2
+    * thank you to [ngx-ree](https://github.com/ngx-ree)
+* closes #157 - [Bug 🐞]: Some RCS parts keep throwing NullReferenceException exceptions in editor, some decouplers cannot be staged.
+* updates #84 - Part Tags
+
+#### Assets 1.13.99.2
+
+* Remove redundant textures
+  * updates #9 - Part Asset Updates
+
+#### Compatibility 1.13.99.2
+
+* Move [FuelSwitch.cfg] into FuelSwitchers/
+
+#### Config 1.13.99.2
+
+* Update [ghostParts.cfg] v1.0.1.0
+  * only parts that have [oldName] will be ghosted
+
+#### Localization 1.13.99.2
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+* Update and additional strings
+  * [en-us.cfg] v1.0.1.0
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+* closes #73 - Russian (Русский) <ru.cfg>
+* updates #65 - Localization - Master
+* updates #66 - English <en-us.cfg>
+
+#### Documentation 1.13.99.2
+
+* Add
+  * [Flags.md] v1.0.0.0
+* Update
+  * [readme.md] v1.13.99.2
+  * [ReleaseLayout.md] v1.13.99.2
+  * [_config.yml] v1.0.1.0
+  * [404.md] v1.0.1.0
+  * [Attributions.md] v1.0.1.0
+  * [Disclaimer.md] v1.0.1.0
+  * [LegalMumboJumbo.md] v1.0.1.0
+  * [Localizations.md] v1.0.1.0
+  * [ManualInstallation.md] v1.0.1.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [PartsCatalog.md] v1.0.1.0
+  * [Why.md] v1.0.1.0
+
+### Status 1.13.99.2
+
+* Issues
+  * closes #153 - Modular Rocket Systems (MRS) 1.13.99.2-prerelease `<Спасибо evanisrael+ngx-ree>` edition
+  * closes #154 - 1.13.99.2 Additional Tasks
+  * updates #152 - [REQUEST] update .craft files to use new part names
+
+---
 
 ## Version 1.13.99.1-prerelease - `<Codingale: TweakScale'R'Us>` edition
 
